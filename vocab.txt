@@ -3,10 +3,4 @@
 café					nm		coffee
 taza					nf		mug
 avena					nf		oatmeal
-huevo					nm		eggs
-
-# Test
-## Title
-test					test		test
-test2					test		test
-t							t				t
+huevo					nm		egg
