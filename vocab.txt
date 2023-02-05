@@ -1,5 +1,5 @@
 # Foundations
-# Building blocks of a sentence
+## Building blocks of a sentence
 ser					v		to be
 estar					v		to be
 el					art		definite article for masculine nouns	
@@ -7,7 +7,7 @@ la					art		definite article for feminine nouns
 un					art		indefinite article for masculine nouns
 una					art		indefinite article for feminine nouns
 
-## Pronouns
+## Basic pronouns
 yo					pron		I
 tú					pron		you (informal)
 el					pron		he
@@ -17,6 +17,10 @@ nosostros/nosotras			pron		we
 vosotros				pron		you all (Castilian/informal)
 ellos/ellas				pron		they
 ustedes					pron		you all (formal)
+
+## Other pronouns
+que					pron		that, which, who
+cuál					pron		which, what
 
 # Grammar
 ## Transition words
@@ -36,6 +40,7 @@ huevo					nm		egg
 
 # Emotions
 amor					nm		love
+disfrutar				v		to enjoy
 miedo					nm		fear
 temor					nm		fear
 
@@ -50,3 +55,4 @@ diluvio					nm		flood
 # Uncategorized so far
 quitar					v		to remove
 tierra					nf		earth
+amistad					nf		friendship
