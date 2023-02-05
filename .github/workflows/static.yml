@@ -35,7 +35,8 @@ jobs:
         with:
           python-version: 3.9
       - name: Generate html
-        run: pip install airium          
+        run: pip install airium
+        run: python main.py
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
