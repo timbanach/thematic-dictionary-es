@@ -1,6 +1,52 @@
+# Foundations
+# Building blocks of a sentence
+ser					v		to be
+estar					v		to be
+el					art		definite article for masculine nouns	
+la					art		definite article for feminine nouns
+un					art		indefinite article for masculine nouns
+una					art		indefinite article for feminine nouns
+
+## Pronouns
+yo					pron		I
+tú					pron		you (informal)
+el					pron		he
+ella					pron		she
+usted					pron		you (formal)
+nosostros/nosotras			pron		we
+vosotros				pron		you all (Castilian/informal)
+ellos/ellas				pron		they
+ustedes					pron		you all (formal)
+
+# Grammar
+## Transition words
+porque					conj		because
+por eso					phr		that's why
+
+# Daily routine
+lavar					v		to wash
+lavarse					vr		to wash oneself
+
 # Food
 ## Breakfast
 café					nm		coffee
 taza					nf		mug
 avena					nf		oatmeal
 huevo					nm		egg
+
+# Emotions
+amor					nm		love
+miedo					nm		fear
+temor					nm		fear
+
+# Comparisons
+preferir				v		to prefer
+preferible				adj		preferable
+
+# Weather
+## Disasters
+diluvio					nm		flood
+
+# Uncategorized so far
+quitar					v		to remove
+tierra					nf		earth
