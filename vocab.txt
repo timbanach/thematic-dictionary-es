@@ -22,14 +22,26 @@ ustedes					pron		you all (formal)
 que					pron		that, which, who
 cuál					pron		which, what
 
+## Numbers
+## Months
+
 # Grammar
 ## Transition words
 porque					conj		because
 por eso					phr		that's why
 
-# Daily routine
+# Daily routines
 lavar					v		to wash
 lavarse					vr		to wash oneself
+llegar					v		to arrive
+planear					v		to plan
+entrar					v		to enter
+buscar					v		to search, to look for
+encontrar				v		to find
+internet				na		internet
+
+# Work
+charla					nf		talk; chat, conversation
 
 # Food
 ## Breakfast
@@ -49,6 +61,8 @@ preferir				v		to prefer
 preferible				adj		preferable
 
 # Weather
+## Seasons
+
 ## Disasters
 diluvio					nm		flood
 
