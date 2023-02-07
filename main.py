@@ -9,7 +9,7 @@ from airium import Airium
 
 style = """body {
   font-family: "Libre Baskerville", serif;
-  font-size: 24px;
+  font-size: 16px;
   position: relative;
   margin-top: 0px;
   margin-bottom: 7%;
