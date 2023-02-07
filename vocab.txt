@@ -1,5 +1,5 @@
 # Foundations
-## Building blocks of a sentence
+## Building blocks
 ser					v		to be
 estar					v		to be
 el					art		definite article for masculine nouns	
@@ -10,7 +10,7 @@ una					art		indefinite article for feminine nouns
 ## Basic pronouns
 yo					pron		I
 tú					pron		you (informal)
-el					pron		he
+él					pron		he
 ella					pron		she
 usted					pron		you (formal)
 nosostros/nosotras			pron		we
@@ -23,14 +23,21 @@ que					pron		that, which, who
 cuál					pron		which, what
 
 ## Numbers
-## Months
+primero					adj		first
 
 # Grammar
 ## Transition words
 porque					conj		because
 por eso					phr		that's why
 
+# Survival Spanish
+llamar					v		to call
+
+# Time
+## Months
+
 # Daily routines
+vez					nf		time, occasion
 lavar					v		to wash
 lavarse					vr		to wash oneself
 llegar					v		to arrive
@@ -39,9 +46,11 @@ entrar					v		to enter
 buscar					v		to search, to look for
 encontrar				v		to find
 internet				na		internet
+## Shopping
 
-# Work
-charla					nf		talk; chat, conversation
+# Relationships
+## Family
+## Friends
 
 # Food
 ## Breakfast
@@ -50,23 +59,36 @@ taza					nf		mug
 avena					nf		oatmeal
 huevo					nm		egg
 
-# Emotions
-amor					nm		love
-disfrutar				v		to enjoy
-miedo					nm		fear
-temor					nm		fear
-
-# Comparisons
-preferir				v		to prefer
-preferible				adj		preferable
-
 # Weather
 ## Seasons
 
 ## Disasters
 diluvio					nm		flood
 
+# Travel
+## Directions
+
+# Work
+charla					nf		talk; chat, conversation
+
+# Religion
+
+# Human person
+## Emotions
+amor					nm		love
+disfrutar				v		to enjoy
+miedo					nm		fear
+temor					nm		fear
+
+## Physiology
+## Self-expression
+preferir				v		to prefer
+preferible				adj		preferable
+percibir				v		to perceive
+
+
 # Uncategorized so far
 quitar					v		to remove
 tierra					nf		earth
 amistad					nf		friendship
+momento					nm		moment
