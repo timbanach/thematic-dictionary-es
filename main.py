@@ -51,7 +51,7 @@ with a.html():
         a.link(rel='preconnect', href='https://fonts.gstatic.com', crossorigin="")
         a.link(href='https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=EB+Garamond&display=swap',
                rel='stylesheet')
-        a.link(rel='stylesheet', href='/public/style.css')
+        a.link(rel='stylesheet', href='style.css')
     with a.body():
         with open('vocab.txt', 'r', encoding='utf-8') as file:
             table_data = []
