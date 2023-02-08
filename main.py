@@ -6,93 +6,6 @@ from airium import Airium
 # - Words generally listed in order of more common to less common frequency in usage
 # - Words are not repeated
 
-
-style = """body {
-  font-family: "Libre Baskerville", serif;
-  font-size: 16px;
-  position: relative;
-  margin-top: 0px;
-  margin-bottom: 7%;
-  margin-right: 7%;
-  margin-left: 7%;
-  background-color: #ffffff;
-  color: #000000;
-}
-
-h2 {
-  margin-block-start: 2em;
-  margin-block-end: 1em;
-}
-h3 {
-  margin-block-start: 0.5em;
-  margin-block-end: 0.5em;
-}
-
-hr {
-  margin-block-start: 0.2em;
-  border-top: 2px solid black;
-  border-bottom: 1px solid white;
-  border-right: 1px solid white;
-  border-left: 1px solid white;
-}
-
-table {
-  left: -2px;
-  position: relative;
-}
-
-th {
-  font-family: Noto Sans;
-  text-align: left;
-}
-
-th.palabra {
-  width: 30%;
-}
-
-th.part {
-  width: 10%;
-}
-
-th.definitions {
-  width: 60%;
-}
-
-td {
-  vertical-align: top;
-  break-inside:avoid;
-}
-
-a:link {
-  text-decoration: none;
-  color: inherit;
-}
-
-a:visited {
-  text-decoration: none;
-  color: inherit;
-}
-
-a:hover {
-  text-decoration: none;
-  color: inherit;
-}
-
-a:active {
-  text-decoration: none;
-  color: inherit;
-}
-@page {
-  margin: 1in;
-}
-
-@media print {
-  body {
-    font-size: 12px;
-    margin: 0;
-  }
-}"""
-
 a = Airium()
 
 
@@ -138,8 +51,7 @@ with a.html():
         a.link(rel='preconnect', href='https://fonts.gstatic.com', crossorigin="")
         a.link(href='https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=EB+Garamond&display=swap',
                rel='stylesheet')
-        with a.style():
-            a('      '.join(style.splitlines(True)))
+        a.link(rel='stylesheet', href='/public/style.css')
     with a.body():
         with open('vocab.txt', 'r', encoding='utf-8') as file:
             table_data = []
