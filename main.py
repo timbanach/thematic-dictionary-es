@@ -49,7 +49,7 @@ with a.html():
         a.meta(charset='utf-8')
         a.link(rel='preconnect', href='https://fonts.googleapis.com')
         a.link(rel='preconnect', href='https://fonts.gstatic.com', crossorigin="")
-        a.link(href='https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=EB+Garamond&display=swap',
+        a.link(href='https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Serif&display=swap',
                rel='stylesheet')
         a.link(rel='stylesheet', href='style.css')
     with a.body():
