@@ -1,13 +1,14 @@
 # Foundations
-## Building blocks
 ser					v		to be
 estar					v		to be
+
+## Articles
 el					art		definite article for masculine nouns	
 la					art		definite article for feminine nouns
 un					art		indefinite article for masculine nouns
 una					art		indefinite article for feminine nouns
 
-## Basic pronouns
+## Subject pronouns
 yo					pron		I
 tú					pron		you (informal)
 él					pron		he
@@ -18,9 +19,20 @@ vosotros				pron		you all (Castilian/informal)
 ellos/ellas				pron		they
 ustedes					pron		you all (formal)
 
+## (This website has a lot of info on other types of pronouns - https://www.berlitz.com/blog/spanish-pronouns-direct-indirect-object)
+
 ## Other pronouns
 que					pron		that, which, who
 cuál					pron		which, what
+
+## Ubiquitous verbs
+conocer					v		to know (people, places, or in general things you are familiar with)
+saber					v		to know (facts, information)
+ir					v 		to go
+tener					v		to have
+haber					v		to have (in compound tenses)
+hacer					v		to do; to make
+poder					v		to be able to, can
 
 ## Numbers
 primero					adj		first
@@ -28,12 +40,16 @@ primero					adj		first
 # Grammar
 ## Transition words
 porque					conj		because
+entonces				adv		then
 por eso					phr		that's why
+en cambio				phr		instead
 
 # Survival Spanish
 llamar					v		to call
 
 # Time
+a partir de				phr		from, starting; as of; beginning in, since
+
 ## Months
 
 # Daily routines
@@ -45,8 +61,17 @@ planear					v		to plan
 entrar					v		to enter
 buscar					v		to search, to look for
 encontrar				v		to find
+comenzar				v		to start
 internet				na		internet
+invitar					v		to invite
+te invito a...				phr		I invite you to...
+llevar					v		to take, to carry; to wear (clothing)
+tener (conj) + que + v (inf)...		phr		I have to...
+
+
 ## Shopping
+
+# Architecture
 
 # Relationships
 ## Family
@@ -71,7 +96,13 @@ diluvio					nm		flood
 # Work
 charla					nf		talk; chat, conversation
 
+# School
+estudiante				n		student
+
+
 # Religion
+sacerdote				nm		priest
+sacerdocio				nm		priesthood
 
 # Human person
 ## Emotions
@@ -85,10 +116,17 @@ temor					nm		fear
 preferir				v		to prefer
 preferible				adj		preferable
 percibir				v		to perceive
-
+al principio				phr		at first
+revelar					v		to reveal
+pensar					v		to think
 
 # Uncategorized so far
 quitar					v		to remove
 tierra					nf		earth
 amistad					nf		friendship
 momento					nm		moment
+a veces					adv		sometimes
+específico				adj		specific
+capacidad				nf		capacity
+mezclar					v		to mix
+mezcla					nf		mixture
