@@ -7,6 +7,7 @@ from airium import Airium
 # - Words are not repeated
 
 a = Airium()
+words = []
 
 
 def write_table(table_data_fn):
@@ -23,6 +24,7 @@ def write_table(table_data_fn):
             for data in table_data_fn:
                 data = re.split(r'\t+', data)
                 word = data[0]
+                words.append(word)  # TODO a better way to do this
                 part = data[1]
                 defn = data[2]
                 with a.tr():
@@ -63,10 +65,10 @@ with a.html():
                         table_data = []
                     if line.startswith('##'):
                         with a.h3():
-                            a(line[2:])
+                            a(line[2:].strip())
                     else:
                         with a.h2():
-                            a(line[1:])
+                            a(line[1:].strip())
                             a.hr()
                 elif line:
                     table_data.append(line)
@@ -77,3 +79,12 @@ html = str(a)  # casting to string extracts the value
 
 with open('./public/index.html', 'w', encoding='utf-8') as file:
     file.write(html)
+
+seen = set()
+dupes = []
+for w in words:
+    if w in seen:
+        dupes.append(w)
+    else:
+        seen.add(w)
+print(dupes)
