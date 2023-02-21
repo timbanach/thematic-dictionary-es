@@ -1,6 +1,14 @@
 # Foundations
 ser					v		to be
 estar					v		to be
+sí					adv, nm, interj	yes
+no					adv, nm, interj	no
+nunca					adv		never
+de					prep		of; from
+en					prep		in; on
+bien					adv, nm, interj	well; good; ok
+bueno					adj, interj	good; ok
+hay					vi		there is, there are; is there?, are there?
 
 ## Articles
 el					art		definite article for masculine nouns	
@@ -8,7 +16,19 @@ la					art		definite article for feminine nouns
 un					art		indefinite article for masculine nouns
 una					art		indefinite article for feminine nouns
 
-## Subject pronouns
+## Interrogative words
+quién/quiénes				pron		who
+qué					pron		what
+dónde					adv		where
+cuándo					adv		when
+por qué					adv		why
+cómo					adv		how
+cuál					pron		which
+cuánto					pron		how much
+cuántos/cuántas				pron		how many
+
+## Pronouns
+### Subject pronouns
 yo					pron		I
 tú					pron		you (informal)
 él					pron		he
@@ -18,6 +38,8 @@ nosostros/nosotras			pron		we
 vosotros				pron		you all (Castilian/informal)
 ellos/ellas				pron		they
 ustedes					pron		you all (formal)
+
+# Pronouns
 
 ## (This website has a lot of info on other types of pronouns - https://www.berlitz.com/blog/spanish-pronouns-direct-indirect-object)
 
@@ -44,11 +66,14 @@ entonces				adv		then
 por eso					phr		that's why
 en cambio				phr		instead
 
+
 # Survival Spanish
 llamar					v		to call
 
 # Time
 a partir de				phr		from, starting; as of; beginning in, since
+
+## Days of the week
 
 ## Months
 
@@ -66,14 +91,27 @@ internet				na		internet
 invitar					v		to invite
 te invito a...				phr		I invite you to...
 llevar					v		to take, to carry; to wear (clothing)
-tener (conj) + que + v (inf)...		phr		I have to...
+tener que + infinitive			phr		I have to...
+usar					v		to use
+
+
+## Everyday objects
+bolígrafo				nm		pen
+teléfono				nm		telephone
 
 
 ## Shopping
 
+## Sports
+partido					nm		game; party
+
 # Architecture
 
 # Relationships
+señor					nm		sir; mister; adult man, gentleman; master
+señora					nf		ma'am; missus; adult woman
+señorita				nf		miss; young woman, lady
+
 ## Family
 ## Friends
 
@@ -83,6 +121,10 @@ café					nm		coffee
 taza					nf		mug
 avena					nf		oatmeal
 huevo					nm		egg
+banana					nf		banana
+
+# Geography
+ciudad					nf		city
 
 # Weather
 ## Seasons
@@ -91,7 +133,25 @@ huevo					nm		egg
 diluvio					nm		flood
 
 # Travel
+viajar					v		to travel
+viaje					nm		trip, journey
+boleto					nm		ticket
+maleta					nf		suitcase
+
+## By air
+aeropuerto				nm		airport
+avión					nm		airplane
+aerolínea				nf		airline
+volar					v		to fly
+terminal				nf		terminal
+
+## Accomodations
+hotel					nm		hotel
+
 ## Directions
+calle					nf		street, road
+lado					nm		side
+al otro lado de				phr		on the other side of the
 
 # Work
 charla					nf		talk; chat, conversation
@@ -105,6 +165,8 @@ sacerdote				nm		priest
 sacerdocio				nm		priesthood
 
 # Human person
+cansado					adj		tired, exhausted
+
 ## Emotions
 amor					nm		love
 disfrutar				v		to enjoy
@@ -130,3 +192,8 @@ específico				adj		specific
 capacidad				nf		capacity
 mezclar					v		to mix
 mezcla					nf		mixture
+divertido				adj		fun, enjoyable; entertaining
+ayuda					nf		help
+ayudar					v		to help
+necesitar				v		to need
+á é í ñ ó ú ü				other		for convenience while entering words if you lack a spanish keyboard
