@@ -17,7 +17,12 @@ h2 {
 }
 h3 {
   font-family: "Noto Sans", sans-serif;
-  margin-block-start: 1.5em;
+  margin-block-start: 2em;
+  margin-block-end: 0.5em;
+}
+h4 {
+  font-family: "Noto Sans", sans-serif;
+  margin-block-start: 1em;
   margin-block-end: 0.5em;
 }
 
@@ -30,6 +35,7 @@ hr {
 }
 
 table {
+  width: 100%;
   left: -2px;
   position: relative;
 }
@@ -44,11 +50,11 @@ th.palabra {
 }
 
 th.part {
-  width: 10%;
+  width: 15%;
 }
 
 th.definitions {
-  width: 60%;
+  width: 55%;
 }
 
 td {
@@ -82,7 +88,7 @@ a:active {
 
 @media print {
   body {
-    font-size: 12px;
+    font-size: 10px;
     margin: 0;
   }
 }
