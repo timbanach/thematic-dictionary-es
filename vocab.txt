@@ -10,6 +10,39 @@ bien					adv, nm, interj	well; good; ok
 bueno					adj, interj	good; ok
 hay					vi		there is, there are; is there?, are there?
 
+## Prepositions
+### Of relation
+para					prep		for; in order to (purpose)
+por					prep		for; by
+de					prep		of; from (location)
+con					prep		with
+sin					prep		without
+contra					prep		against
+según					prep		according to
+sobre					prep		about; on (location)
+versus					prep		versus
+vía					prep		through
+
+### Of location
+a					prep		to; at (time); for (people)
+en					prep		in, at, on
+bajo					prep		under
+encima de				prep		on top of
+delante de				prep		in front of
+enfrente de				prep		in front of
+detras de				prep		behind
+entre					prep		between; among (relation)
+hacia					prep		toward; around (time)
+
+
+### Of time
+desde					prep		since; from (location)
+durante					prep		during
+hasta					prep		until
+tras					prep		after; behind (location)
+
+### Antes, despues?
+
 ## Articles
 el					art		definite article for masculine nouns	
 la					art		definite article for feminine nouns
