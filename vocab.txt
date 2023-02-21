@@ -4,8 +4,6 @@ estar					v		to be
 sí					adv, nm, interj	yes
 no					adv, nm, interj	no
 nunca					adv		never
-de					prep		of; from
-en					prep		in; on
 bien					adv, nm, interj	well; good; ok
 bueno					adj, interj	good; ok
 hay					vi		there is, there are; is there?, are there?
@@ -56,7 +54,7 @@ dónde					adv		where
 cuándo					adv		when
 por qué					adv		why
 cómo					adv		how
-cuál					pron		which
+cuál					pron		which; what
 cuánto					pron		how much
 cuántos/cuántas				pron		how many
 
@@ -78,7 +76,6 @@ ustedes					pron		you all (formal)
 
 ## Other pronouns
 que					pron		that, which, who
-cuál					pron		which, what
 
 ## Ubiquitous verbs
 conocer					v		to know (people, places, or in general things you are familiar with)
