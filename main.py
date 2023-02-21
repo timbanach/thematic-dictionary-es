@@ -25,22 +25,23 @@ def write_table(table_data_fn):
                 data = re.split(r'\t+', data)
                 word = data[0]
                 words.append(word)  # TODO a better way to do this
+                query_word = word.split('/')[0] if '/' in word else word
                 part = data[1]
                 defn = data[2]
                 with a.tr():
                     with a.td():
                         a('<a href="https://www.linguee.com/english-spanish/search?source=auto&query='
-                          + word + '"'
+                          + query_word + '"'
                           + ' target="_blank" rel="noopener noreferrer"' + '>'
                           + word + '</a>')
                     with a.td():
                         a('<a href="https://www.wordreference.com/es/en/translation.asp?spen='
-                          + word + '"'
+                          + query_word + '"'
                           + ' target="_blank" rel="noopener noreferrer"' + '>'
                           + part + '</a>')
                     with a.td():
                         a('<a href="https://www.spanishdict.com/translate/'
-                          + word + '"'
+                          + query_word + '"'
                           + ' target="_blank" rel="noopener noreferrer"' + '>'
                           + defn + '</a>')
 
@@ -63,7 +64,10 @@ with a.html():
                     if table_data:  # If there is a table to write, then write it
                         write_table(table_data)
                         table_data = []
-                    if line.startswith('##'):
+                    if line.startswith('###'):
+                        with a.h4():
+                            a(line[3:].strip())
+                    elif line.startswith('##'):
                         with a.h3():
                             a(line[2:].strip())
                     else:
