@@ -8,6 +8,34 @@ bien					adv, nm, interj	well; good; ok
 bueno					adj, interj	good; ok
 hay					vi		there is, there are; is there?, are there?
 
+## Articles
+el					art		definite article for masculine nouns	
+la					art		definite article for feminine nouns
+un					art		indefinite article for masculine nouns
+una					art		indefinite article for feminine nouns
+
+## Pronouns
+### Subject pronouns
+> From here - (This website has a lot of info on other types of pronouns - https://www.berlitz.com/blog/spanish-pronouns-direct-indirect-object)
+yo					pron		I
+tú					pron		you (informal)
+él					pron		he
+ella					pron		she
+usted					pron		you (formal)
+nosostros/nosotras			pron		we
+vosotros				pron		you all (Castilian/informal)
+ellos/ellas				pron		they
+ustedes					pron		you all (formal)
+
+### Direct object pronouns
+### Indirect object pronouns
+### Reflexive pronouns
+### Possesive pronouns
+### Relative pronouns
+### Prepositional pronouns
+### Indefinite pronouns
+### Demonstrative pronouns
+
 ## Prepositions
 ### Of relation
 para					prep		for; in order to (purpose)
@@ -41,12 +69,6 @@ tras					prep		after; behind (location)
 
 ### Antes, despues?
 
-## Articles
-el					art		definite article for masculine nouns	
-la					art		definite article for feminine nouns
-un					art		indefinite article for masculine nouns
-una					art		indefinite article for feminine nouns
-
 ## Interrogative words
 quién/quiénes				pron		who
 qué					pron		what
@@ -57,25 +79,6 @@ cómo					adv		how
 cuál					pron		which; what
 cuánto					pron		how much
 cuántos/cuántas				pron		how many
-
-## Pronouns
-### Subject pronouns
-yo					pron		I
-tú					pron		you (informal)
-él					pron		he
-ella					pron		she
-usted					pron		you (formal)
-nosostros/nosotras			pron		we
-vosotros				pron		you all (Castilian/informal)
-ellos/ellas				pron		they
-ustedes					pron		you all (formal)
-
-# Pronouns
-
-## (This website has a lot of info on other types of pronouns - https://www.berlitz.com/blog/spanish-pronouns-direct-indirect-object)
-
-## Other pronouns
-que					pron		that, which, who
 
 ## Ubiquitous verbs
 conocer					v		to know (people, places, or in general things you are familiar with)
