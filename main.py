@@ -60,11 +60,14 @@ with a.html():
             table_data = []
             while line := file.readline():
                 line = line.strip()
-                if line.startswith('#'):  # Then we have a title
+                if line.startswith('#') or line.startswith('>'):  # Then we have a title
                     if table_data:  # If there is a table to write, then write it
                         write_table(table_data)
                         table_data = []
-                    if line.startswith('###'):
+                    if line.startswith('>'):
+                        with a.p():
+                            a(line[1:].strip())
+                    elif line.startswith('###'):
                         with a.h4():
                             a(line[3:].strip())
                     elif line.startswith('##'):
@@ -92,3 +95,4 @@ for w in words:
     else:
         seen.add(w)
 print(dupes)
+print(len(seen))

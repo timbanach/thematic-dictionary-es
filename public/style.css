@@ -27,6 +27,12 @@ h4 {
   font-style: italic;
 }
 
+p {
+  font-family: "Noto Sans", sans-serif;
+  margin-block-start: 0.5em;
+  margin-block-end: 0em;
+}
+
 hr {
   margin-block-start: 0.2em;
   border-top: 2px solid black;
@@ -42,7 +48,7 @@ table {
 }
 
 th {
-  font-family: Noto Sans;
+  font-family: Noto Sans, sans-serif;
   text-align: left;
 }
 
