@@ -23,11 +23,20 @@ tú					pron		you (informal)
 ella					pron		she
 usted					pron		you (formal)
 nosostros/nosotras			pron		we
-vosotros				pron		you all (Castilian/informal)
+vosotros				pron		you all (Spain, informal)
 ellos/ellas				pron		they
 ustedes					pron		you all (formal)
 
 ### Direct object pronouns
+me					pron		me
+te					pron		you
+lo					pron		him; it; you (formal)
+la					pron		her; it; you (formal)
+nos					pron		us
+os					pron		you all (Spain, informal)
+les					pron		you all (Spain, formal)
+los/las					pron		them; you all (formal)
+
 ### Indirect object pronouns
 ### Reflexive pronouns
 ### Possesive pronouns
@@ -37,6 +46,7 @@ ustedes					pron		you all (formal)
 ### Demonstrative pronouns
 
 ## Prepositions
+> When the preposition applies to a secondary category, that category is listed in parenthesis after the definition.
 ### Of relation
 para					prep		for; in order to (purpose)
 por					prep		for; by
