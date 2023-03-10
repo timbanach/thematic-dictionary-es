@@ -8,6 +8,8 @@ bien					adv, nm, interj	well; good; ok
 bueno					adj, interj	good; ok
 hay					vi		there is, there are; is there?, are there?
 
+> See https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR for abbr and standardize them
+
 ## Articles
 el					art		definite article for masculine nouns	
 la					art		definite article for feminine nouns
@@ -38,6 +40,13 @@ les					pron		you all (Spain, formal)
 los/las					pron		them; you all (formal)
 
 ### Indirect object pronouns
+me					pron		to/for me
+te					pron		to/for you
+le					pron		to/for him/her/it; to/for you (formal)
+nos					pron		to/for us
+os					pron		to/for you all (Spain, informal)
+les					pron		to/for them; to/for you all (formal)
+
 ### Reflexive pronouns
 ### Possesive pronouns
 ### Relative pronouns
