@@ -11,13 +11,21 @@ hay					vi		there is, there are; is there?, are there?
 > See https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR for abbr and standardize them
 
 ## Articles
-el					art		definite article for masculine nouns	
-la					art		definite article for feminine nouns
-un					art		indefinite article for masculine nouns
-una					art		indefinite article for feminine nouns
+### Definite articles
+el					art		definite article for masculine singular nouns
+los					art		definite article for masculine plural nouns
+la					art		definite article for feminine singular nouns
+las					art		definite article for feminine plural nouns
+
+### Indefinite articles
+un					art		indefinite article for masculine singular nouns
+unos					art		indefinite article for masculine plural nouns
+una					art		indefinite article for feminine singular nouns
+unas					art		indefinite article for feminine plural nouns
 
 ## Pronouns
 ### Subject pronouns
+> General order of pronouns: subject pronoun, indirect object pronoun, direct object pronoun, verb.
 > From here - (This website has a lot of info on other types of pronouns - https://www.berlitz.com/blog/spanish-pronouns-direct-indirect-object)
 yo					pron		I
 tú					pron		you (informal)
@@ -25,30 +33,44 @@ tú					pron		you (informal)
 ella					pron		she
 usted					pron		you (formal)
 nosostros/nosotras			pron		we
-vosotros				pron		you all (Spain, informal)
+vosotros/vosotras			pron		you all (Spain, informal)
 ellos/ellas				pron		they
 ustedes					pron		you all (formal)
 
 ### Direct object pronouns
 me					pron		me
-te					pron		you
-lo					pron		him; it; you (formal)
-la					pron		her; it; you (formal)
+te					pron		you (informal)
+lo/la					pron		him/her; it; you (formal)
 nos					pron		us
 os					pron		you all (Spain, informal)
-les					pron		you all (Spain, formal)
 los/las					pron		them; you all (formal)
 
 ### Indirect object pronouns
+> When le is followed by a pronoun starting with l, it becomes se; for example, dáselo (give it to him).
 me					pron		to/for me
-te					pron		to/for you
-le					pron		to/for him/her/it; to/for you (formal)
+te					pron		to/for you (informal)
+le					pron		to/for him/her; to/for it; to/for you (formal)
 nos					pron		to/for us
 os					pron		to/for you all (Spain, informal)
 les					pron		to/for them; to/for you all (formal)
 
 ### Reflexive pronouns
+me					pron		myself
+te					pron		yourself (informal)
+se					pron		himself/herself; itself; yourself (formal)
+nos					pron		ourselves
+os					pron		yourselves (Spain, informal)
+se					pron		themselves; yourselves (formal)
+
 ### Possesive pronouns
+> Note that possesive pronouns are always preceded by the definite article; for example "el mío" or "la mía."
+mío(s)/mía(s)				pron		mine		
+tuyo(s)/tuya(s)				pron		yours (informal)
+suyo(s)/suya(s)				pron		his/hers; its; yours (formal)
+nuestro(s)/nuestra(s)			pron		ours
+vuestro(s)/vuestra(s)			pron		yours (Spain, informal)
+suyo(s)/suya(s)				pron		theirs; yours (formal)
+
 ### Relative pronouns
 ### Prepositional pronouns
 ### Indefinite pronouns
@@ -117,7 +139,11 @@ porque					conj		because
 entonces				adv		then
 por eso					phr		that's why
 en cambio				phr		instead
-
+mientras que				phr		whereas
+por lo tanto				phr		therefore
+aunque					conj		although, even though; even if
+sin embargo				phr		nevertheless, nonetheless; however
+no obstante				phr		nevertheless, nonetheless; however
 
 # Survival Spanish
 llamar					v		to call
@@ -136,21 +162,25 @@ lavarse					vr		to wash oneself
 llegar					v		to arrive
 planear					v		to plan
 entrar					v		to enter
-buscar					v		to search, to look for
+buscar					v		to search, to look for, to seek
 encontrar				v		to find
 comenzar				v		to start
 internet				na		internet
 invitar					v		to invite
-te invito a...				phr		I invite you to...
+te invito a				phr		I invite you to
 llevar					v		to take, to carry; to wear (clothing)
-tener que + infinitive			phr		I have to...
-usar					v		to use
-
+tener que				phr		to have to
+usar					v		to use; to wear (clothing)
+pedir que				phr		to ask that (a request be done)
+pedir					v		to ask (a request, not a question)			
+haber de				phr		have to; need to
 
 ## Everyday objects
 bolígrafo				nm		pen
 teléfono				nm		telephone
 
+## Ordering at a restaurant
+me puede dar				phr		can you give me	
 
 ## Shopping
 
@@ -163,11 +193,23 @@ partido					nm		game; party
 señor					nm		sir; mister; adult man, gentleman; master
 señora					nf		ma'am; missus; adult woman
 señorita				nf		miss; young woman, lady
+vecino					n		neighbor
 
 ## Family
 ## Friends
 
 # Food
+
+## Utensils
+tenedor					nm		fork
+cuchara					nf		spoon
+cuchillo				nm		knife
+
+## Tablewear
+
+## Drinkwear
+
+
 ## Breakfast
 café					nm		coffee
 taza					nf		mug
@@ -180,6 +222,17 @@ ciudad					nf		city
 
 # Weather
 ## Seasons
+estación				nf		season
+primavera				nf		spring
+verano					nm		summer
+otoño					nm		fall
+invierno				nm		winter
+
+### Fall
+hoja					nf		leaf
+caer					v		to fall
+las hojas caen				phr		the leaves fall
+corto					adj		short, not long
 
 ## Disasters
 diluvio					nm		flood
@@ -204,6 +257,8 @@ hotel					nm		hotel
 calle					nf		street, road
 lado					nm		side
 al otro lado de				phr		on the other side of the
+el camino a				phr		the road to
+fuera de camino				phr		off-road; out of the way
 
 # Work
 charla					nf		talk; chat, conversation
@@ -215,6 +270,7 @@ estudiante				n		student
 # Religion
 sacerdote				nm		priest
 sacerdocio				nm		priesthood
+estar llamado a				phr		to be called to 
 
 # Human person
 cansado					adj		tired, exhausted
@@ -226,13 +282,15 @@ miedo					nm		fear
 temor					nm		fear
 
 ## Physiology
-## Self-expression
+## Self expression
 preferir				v		to prefer
 preferible				adj		preferable
 percibir				v		to perceive
 al principio				phr		at first
 revelar					v		to reveal
 pensar					v		to think
+tener miedo de				phr		to have a fear of
+a mi					phr		for me
 
 # Uncategorized so far
 quitar					v		to remove
@@ -249,3 +307,16 @@ ayuda					nf		help
 ayudar					v		to help
 necesitar				v		to need
 á é í ñ ó ú ü				other		for convenience while entering words if you lack a spanish keyboard
+poco probable				phr		unlikely
+hallar					v		to find (with effort)
+hay que					phr		one ought to VALIDATE
+descrubir				v		to discover
+debido que				phr		due to
+acabar de				phr		to just have done something
+dejar de				phr		to just stop doing something
+dejar					v		to leave
+este/esta				?		this (ALSO DO THAT)
+es mejor				phr		it is better; he/she is better
+guía					nc		guide
+varios					adj		various
+				
