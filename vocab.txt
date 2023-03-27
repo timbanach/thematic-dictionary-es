@@ -137,13 +137,14 @@ primero					adj		first
 ## Transition words
 porque					conj		because
 entonces				adv		then
+por lo tanto				phr		therefore
+sin embargo				phr		however; nevertheless, nonetheless
+no obstante				phr		however; nevertheless, nonetheless
+aunque					conj		although, even though; even if
 por eso					phr		that's why
 en cambio				phr		instead
 mientras que				phr		whereas
-por lo tanto				phr		therefore
-aunque					conj		although, even though; even if
-sin embargo				phr		nevertheless, nonetheless; however
-no obstante				phr		nevertheless, nonetheless; however
+sino					conj		but rather
 
 # Survival Spanish
 llamar					v		to call
@@ -178,8 +179,10 @@ haber de				phr		have to; need to
 ## Everyday objects
 bolígrafo				nm		pen
 teléfono				nm		telephone
+número de teléfono			phr		telephone number
 
 ## Ordering at a restaurant
+por favor				phr		please
 me puede dar				phr		can you give me	
 
 ## Shopping
@@ -319,4 +322,5 @@ este/esta				?		this (ALSO DO THAT)
 es mejor				phr		it is better; he/she is better
 guía					nc		guide
 varios					adj		various
+firmar					v		to sign
 				
