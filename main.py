@@ -8,6 +8,7 @@ from airium import Airium
 
 a = Airium()
 words = []
+parts = set()
 
 
 def write_table(table_data_fn):
@@ -26,7 +27,9 @@ def write_table(table_data_fn):
                 word = data[0]
                 words.append(word)  # TODO a better way to do this
                 query_word = word.split('/')[0] if '/' in word else word
+                query_word = query_word.removesuffix('(s)') if query_word.endswith('(s)') else query_word
                 part = data[1]
+                parts.add(part)
                 defn = data[2]
                 with a.tr():
                     with a.td():
@@ -96,3 +99,5 @@ for w in words:
         seen.add(w)
 print(dupes)
 print(len(seen))
+
+print(parts)
