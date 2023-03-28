@@ -25,7 +25,6 @@ unas					art		indefinite article for feminine plural nouns
 
 ## Pronouns
 ### Subject pronouns
-> General order of pronouns: subject pronoun, indirect object pronoun, direct object pronoun, verb.
 > From here - (This website has a lot of info on other types of pronouns - https://www.berlitz.com/blog/spanish-pronouns-direct-indirect-object)
 yo					pron		I
 tú					pron		you (informal)
@@ -37,7 +36,26 @@ vosotros/vosotras			pron		you all (Spain, informal)
 ellos/ellas				pron		they
 ustedes					pron		you all (formal)
 
+### Prepositional pronouns
+> As the name suggests, these follow a preposition; for example, "esto es para ti" (this is for you).
+> For the most part, they are the same as the subject pronouns.
+mí					pron		me
+ti					pron		you (informal)
+él					pron		him
+ella					pron		her
+usted					pron		you (formal)
+nosotros/nosotras			pron		us
+vosotros/vosotras			pron		you all (Spain, informal)
+ellos/ellas				pron		them
+ustedes					pron		you all (formal)
+> Conmigo and contigo are special cases:
+conmigo					pron		with me
+contigo					pron		with you
+
+á é í ñ ó ú ü
+
 ### Direct object pronouns
+> General order: subject pronoun, indirect object pronoun, direct object pronoun, verb.
 me					pron		me
 te					pron		you (informal)
 lo/la					pron		him/her; it; you (formal)
@@ -72,7 +90,6 @@ vuestro(s)/vuestra(s)			pron		yours (Spain, informal)
 suyo(s)/suya(s)				pron		theirs; yours (formal)
 
 ### Relative pronouns
-### Prepositional pronouns
 ### Indefinite pronouns
 ### Demonstrative pronouns
 
