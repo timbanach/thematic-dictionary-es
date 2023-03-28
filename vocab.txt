@@ -52,8 +52,6 @@ ustedes					pron		you all (formal)
 conmigo					pron		with me
 contigo					pron		with you
 
-á é í ñ ó ú ü
-
 ### Direct object pronouns
 > General order: subject pronoun, indirect object pronoun, direct object pronoun, verb.
 me					pron		me
