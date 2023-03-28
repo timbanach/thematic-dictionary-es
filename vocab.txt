@@ -37,8 +37,7 @@ ellos/ellas				pron		they
 ustedes					pron		you all (formal)
 
 ### Prepositional pronouns
-> As the name suggests, these follow a preposition; for example, "esto es para ti" (this is for you).
-> For the most part, they are the same as the subject pronouns.
+> As the name suggests, these follow a preposition; for example, "esto es para ti" (this is for you). For the most part, they are the same as the subject pronouns.
 mí					pron		me
 ti					pron		you (informal)
 él					pron		him
@@ -48,7 +47,7 @@ nosotros/nosotras			pron		us
 vosotros/vosotras			pron		you all (Spain, informal)
 ellos/ellas				pron		them
 ustedes					pron		you all (formal)
-> Conmigo and contigo are special cases:
+> "With me" and "with you" are special cases:
 conmigo					pron		with me
 contigo					pron		with you
 
