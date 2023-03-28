@@ -78,15 +78,26 @@ os					pron		yourselves (Spain, informal)
 se					pron		themselves; yourselves (formal)
 
 ### Possesive pronouns
-> Note that possesive pronouns are always preceded by the definite article; for example "el mío" or "la mía."
-mío(s)/mía(s)				pron		mine		
-tuyo(s)/tuya(s)				pron		yours (informal)
-suyo(s)/suya(s)				pron		his/hers; its; yours (formal)
-nuestro(s)/nuestra(s)			pron		ours
-vuestro(s)/vuestra(s)			pron		yours (Spain, informal)
-suyo(s)/suya(s)				pron		theirs; yours (formal)
+> Note that possesive pronouns are always preceded by the definite article; for example "el mío" or "la mía." Also, these are actually relative adjectives, and agree in gender and number with the noun they modify.
+mío(s)/mía(s)				adj, pron	mine		
+tuyo(s)/tuya(s)				adj, pron	yours (informal)
+suyo(s)/suya(s)				adj, pron	his/hers; its; yours (formal)
+nuestro(s)/nuestra(s)			adj, pron	ours
+vuestro(s)/vuestra(s)			adj, pron	yours (Spain, informal)
+suyo(s)/suya(s)				adj, pron	theirs; yours (formal)
 
 ### Relative pronouns
+que					pron		that, which; who, whom
+quien					pron		who
+quienes					pron		who (plural)
+el/la que				pron		the one that, that which
+los/las que				pron		those that, those which
+> Like the possive pronouns, cuyo is a relative adjective.
+cuyo(s)/cuya(s)				adj, pron	whose
+> In addition to being interrogative adverbs, "cuando" and "donde" can also be used as relative pronouns. 
+cuando					adv, pron	when
+donde					adv, pron	where
+
 ### Indefinite pronouns
 ### Demonstrative pronouns
 
@@ -222,9 +233,9 @@ tenedor					nm		fork
 cuchara					nf		spoon
 cuchillo				nm		knife
 
-## Tablewear
+### Tablewear
 
-## Drinkwear
+### Drinkwear
 
 
 ## Breakfast
