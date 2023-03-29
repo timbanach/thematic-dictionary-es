@@ -24,6 +24,8 @@ una					art		indefinite article for feminine singular nouns
 unas					art		indefinite article for feminine plural nouns
 
 ## Pronouns
+> General order of pronouns: subject pronoun, indirect object pronoun, direct object pronoun, verb. However, if the verb is infinitive, imperative, or reflexive the direct/indirect object pronouns follow the verb.
+
 ### Subject pronouns
 > From here - (This website has a lot of info on other types of pronouns - https://www.berlitz.com/blog/spanish-pronouns-direct-indirect-object)
 yo					pron		I
@@ -52,7 +54,6 @@ conmigo					pron		with me
 contigo					pron		with you
 
 ### Direct object pronouns
-> General order: subject pronoun, indirect object pronoun, direct object pronoun, verb.
 me					pron		me
 te					pron		you (informal)
 lo/la					pron		him/her; it; you (formal)
@@ -61,7 +62,7 @@ os					pron		you all (Spain, informal)
 los/las					pron		them; you all (formal)
 
 ### Indirect object pronouns
-> When le is followed by a pronoun starting with l, it becomes se; for example, dáselo (give it to him).
+> When le is followed by a pronoun starting with l, it becomes se; for example, "dáselo" (give it to him).
 me					pron		to/for me
 te					pron		to/for you (informal)
 le					pron		to/for him/her; to/for it; to/for you (formal)
@@ -92,9 +93,9 @@ quien					pron		who
 quienes					pron		who (plural)
 el/la que				pron		the one that, that which
 los/las que				pron		those that, those which
-> Like the possive pronouns, cuyo is a relative adjective.
+> Like the possive pronouns, "cuyo" is a relative adjective:
 cuyo(s)/cuya(s)				adj, pron	whose
-> In addition to being interrogative adverbs, "cuando" and "donde" can also be used as relative pronouns. 
+> In addition to being interrogative adverbs, "cuando" and "donde" can also be used as relative pronouns:
 cuando					adv, pron	when
 donde					adv, pron	where
 
@@ -125,7 +126,7 @@ enfrente de				prep		in front of
 detras de				prep		behind
 entre					prep		between; among (relation)
 hacia					prep		toward; around (time)
-
+incluyendo				prep		including
 
 ### Of time
 desde					prep		since; from (location)
@@ -348,4 +349,6 @@ es mejor				phr		it is better; he/she is better
 guía					nc		guide
 varios					adj		various
 firmar					v		to sign
-				
+dar a conocer				phr		to make known
+aceptar					v		to accept
+por el bien de				phr		for the good of
