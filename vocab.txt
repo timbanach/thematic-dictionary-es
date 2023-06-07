@@ -119,7 +119,7 @@ vía					prep		through
 ### Of location
 a					prep		to; at (time); for (people)
 en					prep		in, at, on
-bajo					prep		under
+debajo de				prep		under
 encima de				prep		on top of
 delante de				prep		in front of
 enfrente de				prep		in front of
@@ -216,7 +216,16 @@ me puede dar				phr		can you give me
 ## Sports
 partido					nm		game; party
 
-# Architecture
+# Nature
+árbol					nm		tree
+flor					nf		flower
+volcán					nm		volcano
+
+
+## Wild animals
+pájaro					nm		bird
+
+
 
 # Relationships
 señor					nm		sir; mister; adult man, gentleman; master
