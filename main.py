@@ -49,6 +49,10 @@ def write_table(table_data_fn):
                           + defn + '</a>')
 
 
+def format_header(h: str):
+    return h.replace(' ', '_').lower()
+
+
 a('<!DOCTYPE html>')
 with a.html():
     with a.head():
@@ -59,6 +63,29 @@ with a.html():
                rel='stylesheet')
         a.link(rel='stylesheet', href='style.css')
     with a.body():
+
+        # Create the table of contents
+        with a.h2():
+            a('Table of Contents')
+            a.hr()
+        with a.dl():
+            with open('vocab.txt', 'r', encoding='utf-8') as file:
+                while line := file.readline():
+                    line = line.strip()
+                    if line.startswith('###'):
+                        pass  # Basically skip over level 3 headings
+                    elif line.startswith('##'):
+                        header = line[2:].strip()
+                        with a.dd():
+                            with a.a(href=('#' + format_header(header))):
+                                a(header)
+                    elif line.startswith('#'):
+                        header = line[1:].strip()
+                        with a.dt():
+                            with a.a(href=('#' + format_header(header))):
+                                a(header)
+
+        # Create the dictionary
         with open('vocab.txt', 'r', encoding='utf-8') as file:
             table_data = []
             while line := file.readline():
@@ -74,11 +101,13 @@ with a.html():
                         with a.h4():
                             a(line[3:].strip())
                     elif line.startswith('##'):
-                        with a.h3():
-                            a(line[2:].strip())
+                        header = line[2:].strip()
+                        with a.h3(id=format_header(header)):
+                            a(header)
                     else:
-                        with a.h2():
-                            a(line[1:].strip())
+                        header = line[1:].strip()
+                        with a.h2(id=format_header(header)):
+                            a(header)
                             a.hr()
                 elif line:
                     table_data.append(line)
@@ -87,9 +116,11 @@ with a.html():
 
 html = str(a)  # casting to string extracts the value
 
+# Write the html file
 with open('./public/index.html', 'w', encoding='utf-8') as file:
     file.write(html)
 
+# Some metadata for reference
 seen = set()
 dupes = []
 for w in words:
@@ -99,5 +130,4 @@ for w in words:
         seen.add(w)
 print(dupes)
 print(len(seen))
-
 print(parts)
