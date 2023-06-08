@@ -1,4 +1,6 @@
 # Foundations
+> TODO: Reorder so that a lot of this is in grammar
+> Note: See <a href='https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR' style='text-decoration:underline'>abbreviations</a> for the general sense of how the parts of speech should be recorded.
 ser					v		to be
 estar					v		to be
 sí					adv, nm, interj	yes
@@ -7,8 +9,6 @@ nunca					adv		never
 bien					adv, nm, interj	well; good; ok
 bueno					adj, interj	good; ok
 hay					vi		there is, there are; is there?, are there?
-
-> See https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR for abbr and standardize them
 
 ## Articles
 ### Definite articles
@@ -100,10 +100,14 @@ cuando					adv, pron	when
 donde					adv, pron	where
 
 ### Indefinite pronouns
+> TODO: Finish this
+
 ### Demonstrative pronouns
+> TODO: Finish this
 
 ## Prepositions
 > When the preposition applies to a secondary category, that category is listed in parenthesis after the definition.
+
 ### Of relation
 para					prep		for; in order to (purpose)
 por					prep		for; by
@@ -134,8 +138,6 @@ durante					prep		during
 hasta					prep		until
 tras					prep		after; behind (location)
 
-### Antes, despues?
-
 ## Interrogative words
 quién/quiénes				pron		who
 qué					pron		what
@@ -148,16 +150,31 @@ cuánto					pron		how much
 cuántos/cuántas				pron		how many
 
 ## Ubiquitous verbs
+ir					v 		to go
+haber					v		to have (in compound tenses)
+tener					v		to have
 conocer					v		to know (people, places, or in general things you are familiar with)
 saber					v		to know (facts, information)
-ir					v 		to go
-tener					v		to have
-haber					v		to have (in compound tenses)
 hacer					v		to do; to make
 poder					v		to be able to, can
+deber					v		should; must; ought
 
-## Numbers
+# Numbers
+## Ordinal numbers
 primero					adj		first
+segundo					adj		second
+tercero					adj		third
+cuarto					adj		fourth
+quinto					adj		fifth
+sexto					adj		sixth
+séptimo					adj		seventh
+octavo					adj		eigth
+noveno					adj		ninth
+décimo					adj		tenth
+undécimo				adj		eleventh
+decimoprimero				adj		eleventh
+duodécimo				adj		twelfth
+decimosegundo				adj		twelfth
 
 # Grammar
 ## Transition words
@@ -173,14 +190,64 @@ mientras que				phr		whereas
 sino					conj		but rather
 
 # Survival Spanish
+por favor				phr		please
+gracias					phr		thank you
+
+## Small talk
+### Introductions
 llamar					v		to call
+¿cómo se llama?				phr		what do you call yourself? (formal)
+¿cómo te llamas?			phr		what do you call yourself? (informal)
+me llamo				phr		I am called
+mucho gusto				phr		nice to meet you
+
+### Greetings and responses
+¿cómo está (usted)?			phr		how are you? (formal)
+¿cómo estás?				phr		how are you? (informal)
+más o menos				phr		so-so, not too bad
+feliz					adj		happy
+contento(a)				adj		happy, content, satisfied
+triste					adj		sad
+aburrido(a)				adj		bored, boring
+cansado(a)				adj		tired
+emocionado(a)				adj		excited
+frustrado(a)				adj		frustrated
+
+### Personal information
+¿de dónde es usted?			phr		where are you from?
+soy de...				phr		I am from...
+¿qué es usted?				phr		what are you?
+soy ingeniero, medico, etc.		phr		I am an engineer, doctor, etc.
+¿quién es ella?				phr		who is she?
+ella es la doctora			phr		she is the doctor
 
 # Time
+antes					adv		before
+despues					adv		after
 a partir de				phr		from, starting; as of; beginning in, since
 
 ## Days of the week
+lunes					nm		Monday
+martes					nm		Tuesday
+miércoles				nm		Wednesday
+jueves					nm		Thursday
+viernes					nm		Friday
+sábado					nm		Saturday
+domingo					nm		Sunday
 
 ## Months
+enero					nm		January
+febrero					nm		February
+marzo					nm		March
+abril					nm		April
+mayo					nm		May
+junio					nm		June
+julio					nm		July
+augusto					nm		August
+septiembre				nm		September
+octubre					nm		October
+noviembre				nm		November
+diciembre				nm		December
 
 # Daily routines
 vez					nf		time, occasion
@@ -188,6 +255,7 @@ lavar					v		to wash
 lavarse					vr		to wash oneself
 llegar					v		to arrive
 planear					v		to plan
+plan					nm		plan
 entrar					v		to enter
 buscar					v		to search, to look for, to seek
 encontrar				v		to find
@@ -196,11 +264,13 @@ internet				na		internet
 invitar					v		to invite
 te invito a				phr		I invite you to
 llevar					v		to take, to carry; to wear (clothing)
+traer					v		to bring
 tener que				phr		to have to
 usar					v		to use; to wear (clothing)
 pedir que				phr		to ask that (a request be done)
 pedir					v		to ask (a request, not a question)			
 haber de				phr		have to; need to
+sentarse				v		to sit
 
 ## Everyday objects
 bolígrafo				nm		pen
@@ -208,13 +278,30 @@ teléfono				nm		telephone
 número de teléfono			phr		telephone number
 
 ## Ordering at a restaurant
-por favor				phr		please
-me puede dar				phr		can you give me	
+me puede dar				phr		can you give me
+quisiera				phr		I would like (imperfect subjunctive of querer)
+cuenta					nf		check
+¿acepta(s) tarjetas de credito?		phr		do you accept credit cards?
+
 
 ## Shopping
 
 ## Sports
 partido					nm		game; party
+
+# Architecture
+puerta					nf		door
+ventana					nf		window
+abierto/a				adj		open
+					
+## Domestic
+cuarto					nm		room
+habitación				nf		room; bedroom
+cocina					nf		kitchen
+
+## Furniture
+silla					nf		chair
+mesa					nf		table
 
 # Nature
 árbol					nm		tree
@@ -224,8 +311,7 @@ volcán					nm		volcano
 
 ## Wild animals
 pájaro					nm		bird
-
-
+águila					nf		eagle
 
 # Relationships
 señor					nm		sir; mister; adult man, gentleman; master
@@ -235,6 +321,9 @@ vecino					n		neighbor
 
 ## Family
 ## Friends
+
+# Describing people
+dueño					n		owner
 
 # Food
 
@@ -292,11 +381,26 @@ terminal				nf		terminal
 hotel					nm		hotel
 
 ## Directions
+derecha					nf		right
+izquierda				nf		left
+derecho					adv		straight
+recto					adv		straight
 calle					nf		street, road
 lado					nm		side
 al otro lado de				phr		on the other side of the
 el camino a				phr		the road to
 fuera de camino				phr		off-road; out of the way
+
+# Society
+## Government
+tener derecho a				phr		to have the right to
+
+## Services
+seguro médico				nm		medical insurance
+
+# Health
+## Body parts
+ojo					nm		eye
 
 # Work
 charla					nf		talk; chat, conversation
