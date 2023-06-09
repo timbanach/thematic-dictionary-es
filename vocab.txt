@@ -186,7 +186,7 @@ emocionado(a)				adj		excited
 frustrado(a)				adj		frustrated
 
 ## Personal information
-¿de dónde es usted?			phr		where are you from?
+¿de dónde es (usted)?			phr		where are you from?
 soy de...				phr		I am from...
 ¿qué es usted?				phr		what are you?
 soy ingeniero, medico, etc.		phr		I am an engineer, doctor, etc.
@@ -383,14 +383,31 @@ silla					nf		chair
 mesa					nf		table
 
 # Nature
+## Flora
 árbol					nm		tree
+hoja					nf		leaf
+aguja					nf		needle
 flor					nf		flower
-volcán					nm		volcano
+pétalo					nm		petal
+bosque					nm		forest
+selva					nf		jungle
 
+### Types of trees
+pino					nm		pine
+roble					nm		oak
+arce					nm		maple
+nogal					nm		walnut
 
-## Wild animals
+## Fauna
 pájaro					nm		bird
 águila					nf		eagle
+perro					nm		dog
+
+## Landscapes
+montaña					nf		mountain
+lago					nm		lake
+río					nm		river
+volcán					nm		volcano
 
 # Relationships
 señor					nm		sir; mister; adult man, gentleman; master
