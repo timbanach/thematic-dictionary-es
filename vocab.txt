@@ -133,6 +133,8 @@ hacia					prep		toward; around (time)
 incluyendo				prep		including
 
 ### Of time
+antes de				prep		before
+después de				prep		after
 desde					prep		since; from (location)
 durante					prep		during
 hasta					prep		until
@@ -159,7 +161,115 @@ hacer					v		to do; to make
 poder					v		to be able to, can
 deber					v		should; must; ought
 
+# Survival Spanish
+por favor				phr		please
+gracias					phr		thank you
+
+## Introductions
+llamar					v		to call
+¿cómo se llama?				phr		what do you call yourself? (formal)
+¿cómo te llamas?			phr		what do you call yourself? (informal)
+me llamo				phr		I am called
+mucho gusto				phr		nice to meet you
+
+## Greetings and responses
+¿cómo está (usted)?			phr		how are you? (formal)
+¿cómo estás?				phr		how are you? (informal)
+estoy bien, gracias			phr		I am well, thank you				
+más o menos				phr		so-so, not too bad
+feliz					adj		happy
+contento(a)				adj		happy, content, satisfied
+triste					adj		sad
+aburrido(a)				adj		bored, boring
+cansado(a)				adj		tired
+emocionado(a)				adj		excited
+frustrado(a)				adj		frustrated
+
+## Personal information
+¿de dónde es usted?			phr		where are you from?
+soy de...				phr		I am from...
+¿qué es usted?				phr		what are you?
+soy ingeniero, medico, etc.		phr		I am an engineer, doctor, etc.
+¿quién es ella?				phr		who is she?
+ella es la doctora			phr		she is the doctor
+
 # Numbers
+## Cardinal numbers
+> Enough examples are provided below to get the pattern.
+### Numbers 1-10
+uno					nm		one
+dos					nm		two
+tres					nm		three
+cuatro					nm		four
+cinco					nm		five
+seis					nm		six
+siete					nm		seven
+ocho					nm		eight
+nueve					nm		nine
+diez					nm		ten
+
+### Numbers 11-19
+once					nm		eleven
+doce					nm		twelve
+trece					nm		thirteen
+catorce					nm		fourteen
+quince					nm		fifteen
+dieciséis				nm		sixteen
+diecisiete				nm		seventeen
+dieciocho				nm		eighteen
+diecinueve				nm		nineteen
+
+### Numbers 20-29
+veinte					nm		twenty
+veintiuno				nm		twenty-one
+veintidós				nm		twenty-two
+veintitrés				nm		twenty-three
+veinticuatro				nm		twenty-four
+veinticinco				nm		twenty-five
+veintiséis				nm		twenty-six
+veintisiete				nm		twenty-seven
+veintiocho				nm		twenty-eight
+veintinueve				nm		twenty-nine
+
+### Numbers 30-39
+treinta					nm		thirty
+treinta y uno				nm		thirty-one
+treinta y dos				nm		thirty-two
+treinta y tres				nm		thirty-three
+
+### Numbers 40-99
+cuarenta				nm		forty
+cincuenta				nm		fifty
+sesenta					nm		sixty
+setenta					nm		seventy
+ochenta					nm		eighty
+noventa					nm		ninety
+
+### Numbers 100-199
+cien					nm		one hundred
+ciento uno				nm		one hundred and one
+ciento treinta y tres			nm		one hundred thirty-three
+
+### Numbers 200-999
+doscientos				nm		two hundred
+trescientos				nm		three hundred
+cuatrocientos				nm		four hundred
+quinientos				nm		five hundred
+seiscientos				nm		six hundred
+setecientos				nm		seven hundred
+ochocientos				nm		eight hundred
+novecientos				nm		nine hundred
+
+### Numbers 1000 and above
+> Note that mil does not use y, but millón does.
+mil					nm		one thousand
+mil uno					nm		one thousand and one
+dos mil					nm		two thousand
+dos mil dos				nm		two thousand and two
+un millón				nm		one million
+un millón y uno				nm		one million and one 
+tres millones y tres			nm		three million and three
+
 ## Ordinal numbers
 primero					adj		first
 segundo					adj		second
@@ -189,42 +299,11 @@ en cambio				phr		instead
 mientras que				phr		whereas
 sino					conj		but rather
 
-# Survival Spanish
-por favor				phr		please
-gracias					phr		thank you
-
-## Small talk
-### Introductions
-llamar					v		to call
-¿cómo se llama?				phr		what do you call yourself? (formal)
-¿cómo te llamas?			phr		what do you call yourself? (informal)
-me llamo				phr		I am called
-mucho gusto				phr		nice to meet you
-
-### Greetings and responses
-¿cómo está (usted)?			phr		how are you? (formal)
-¿cómo estás?				phr		how are you? (informal)
-más o menos				phr		so-so, not too bad
-feliz					adj		happy
-contento(a)				adj		happy, content, satisfied
-triste					adj		sad
-aburrido(a)				adj		bored, boring
-cansado(a)				adj		tired
-emocionado(a)				adj		excited
-frustrado(a)				adj		frustrated
-
-### Personal information
-¿de dónde es usted?			phr		where are you from?
-soy de...				phr		I am from...
-¿qué es usted?				phr		what are you?
-soy ingeniero, medico, etc.		phr		I am an engineer, doctor, etc.
-¿quién es ella?				phr		who is she?
-ella es la doctora			phr		she is the doctor
-
 # Time
 antes					adv		before
 despues					adv		after
 a partir de				phr		from, starting; as of; beginning in, since
+de una a dos				phr		from one to two
 
 ## Days of the week
 lunes					nm		Monday
