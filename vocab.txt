@@ -328,6 +328,13 @@ octubre					nm		October
 noviembre				nm		November
 diciembre				nm		December
 
+## Seasons
+estación				nf		season
+primavera				nf		spring
+verano					nm		summer
+otoño					nm		fall
+invierno				nm		winter
+
 # Daily routines
 vez					nf		time, occasion
 lavar					v		to wash
@@ -362,6 +369,12 @@ quisiera				phr		I would like (imperfect subjunctive of querer)
 cuenta					nf		check
 ¿acepta(s) tarjetas de credito?		phr		do you accept credit cards?
 
+### Describing food
+sabroso/a				adj		delicious, tasty
+delicioso/a				adj		delicious
+rico					adj		delicious, tasty, yummy; rich
+está sabroso/a				phr		it's delicious/tasty
+estaba sabroso/a			phr		it was delicious/tasty
 
 ## Shopping
 
@@ -432,6 +445,44 @@ cuchillo				nm		knife
 
 ### Drinkwear
 
+## Vegetables
+verdura					nf		vegetable
+vegetal					nm		vegetable
+zanahoria				nf		carrot
+apio					nm		celery
+cebolla					nf		onion
+tomate					nm		tomato
+arveja					nf		pea
+brócoli					nm		broccoli
+acachofa				nf		artichoke
+berenjena				nf		eggplant
+calabacín				nm		zucchini
+güicoy					nm		zucchini
+champiñón				nm		mushroom
+col					nm		cabbage
+col de Bruselas				nf		brussel sprout
+coliflor				nf		cauliflower
+espárrago				nm		esparagus
+maíz					nm		corn
+pepino					nm		cucumber
+pimiento				nm		pepper
+rábano					nm		raddish
+calabaza				nf		squash
+aguacate				nm		avocado
+zapallo					nf		pumpkin
+
+### Leafy vegetables
+lechuga					nf		lettuce
+espinaca				nf		spinach
+
+### Starches
+papa					nf		potato
+batata					nf		sweet potato
+remolacha				nf		beet
+yuca					nf		yucca
+
+## Fruits
+## Meats
 
 ## Breakfast
 café					nm		coffee
@@ -444,18 +495,19 @@ banana					nf		banana
 ciudad					nf		city
 
 # Weather
-## Seasons
-estación				nf		season
-primavera				nf		spring
-verano					nm		summer
-otoño					nm		fall
-invierno				nm		winter
-
-### Fall
-hoja					nf		leaf
-caer					v		to fall
-las hojas caen				phr		the leaves fall
-corto					adj		short, not long
+> There are a lot of impersonal verbs when talking about the weather.
+lluvia					nf		rain
+llover					vi		to rain
+nieve					nf		snow
+nevar					vi		to snow
+rayo					nm		lightning; ray
+relámpago				nm		lightning
+trueno					nm		thunder
+tronar					vi		to thunder
+tormenta				nf		storm; thunderstorm
+sol					nm		sun
+luz del sol				nf		sunlight
+luna 					nf		moon
 
 ## Disasters
 diluvio					nm		flood
@@ -561,3 +613,4 @@ firmar					v		to sign
 dar a conocer				phr		to make known
 aceptar					v		to accept
 por el bien de				phr		for the good of
+corto					adj		short, not long
