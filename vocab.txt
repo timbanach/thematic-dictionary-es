@@ -187,7 +187,7 @@ frustrado(a)				adj		frustrated
 
 ## Personal information
 ¿de dónde es (usted)?			phr		where are you from?
-soy de...				phr		I am from...
+soy de					phr		I am from
 ¿qué es usted?				phr		what are you?
 soy ingeniero, medico, etc.		phr		I am an engineer, doctor, etc.
 ¿quién es ella?				phr		who is she?
@@ -366,8 +366,11 @@ número de teléfono			phr		telephone number
 ## Ordering at a restaurant
 me puede dar				phr		can you give me
 quisiera				phr		I would like (imperfect subjunctive of querer)
+quiero					phr		I want
+le encargo				phr		can you bring me 
 cuenta					nf		check
 ¿acepta(s) tarjetas de credito?		phr		do you accept credit cards?
+todavía no estamos listos		phr		we are not ready yet
 
 ### Describing food
 sabroso/a				adj		delicious, tasty
@@ -538,6 +541,21 @@ lado					nm		side
 al otro lado de				phr		on the other side of the
 el camino a				phr		the road to
 fuera de camino				phr		off-road; out of the way
+
+## Cardinal directions
+punto cardinal				nm		cardinal direction
+norte					nm		north
+sur					nm		south
+este					nm		east
+oeste					nm		west
+noreste					nm		northeast
+noroeste				nm		northwest
+sudeste					nm		southeast
+sudoeste				nm		southwest
+norteño					adj		northern
+sureño					adj		southern
+oriental				adj		eastern
+occidental				adj		western
 
 # Society
 ## Government
