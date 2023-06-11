@@ -2,6 +2,9 @@ import re
 
 from airium import Airium
 
+LINK_REGEX = '\\[(.+)\\]\\((.+)\\)'
+MAX_REPLACEMENTS = 12
+
 # Requirements:
 # - Words generally listed in order of more common to less common frequency in usage
 # - Words are not repeated
@@ -90,13 +93,24 @@ with a.html():
             table_data = []
             while line := file.readline():
                 line = line.strip()
-                if line.startswith('#') or line.startswith('>'):  # Then we have a title
+                if line.startswith('#') or line.startswith('>'):  # Then we have a title or comment
                     if table_data:  # If there is a table to write, then write it
                         write_table(table_data)
                         table_data = []
                     if line.startswith('>'):
+                        comment = line[1:].strip()
+                        result = re.search(LINK_REGEX, comment)
+                        replacements = 0
+                        while result and replacements < MAX_REPLACEMENTS:  # Avoid infinite loop
+                            name = result.group(1)
+                            url = result.group(2)
+                            match = comment[result.start():result.end()]
+                            link = "<a href='" + url + "' style='text-decoration:underline'>" + name + "</a>"
+                            comment = comment.replace(match, link)
+                            result = re.search(LINK_REGEX, comment)
+                            replacements += 1
                         with a.p():
-                            a(line[1:].strip())
+                            a(comment)
                     elif line.startswith('###'):
                         with a.h4():
                             a(line[3:].strip())
