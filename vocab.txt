@@ -1,6 +1,6 @@
 # Foundations
 > TODO: Reorder so that a lot of this is in grammar
-> Note: See <a href='https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR' style='text-decoration:underline'>abbreviations</a> for the general sense of how the parts of speech should be recorded.
+> Note: See [abbreviations](https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR) for the general sense of how the parts of speech should be recorded.
 ser					v		to be
 estar					v		to be
 sí					adv, nm, interj	yes
@@ -176,17 +176,8 @@ mucho gusto				phr		nice to meet you
 ¿cómo está (usted)?			phr		how are you? (formal)
 ¿cómo estás?				phr		how are you? (informal)
 estoy bien, gracias			phr		I am well, thank you
-
-
-### Responses to how are you?			
 más o menos				phr		so-so, not too bad
-feliz					adj		happy
-contento				adj		happy, content, satisfied
-triste					adj		sad
-aburrido				adj		bored, boring
-cansado				adj		tired
-emocionado				adj		excited
-frustrado				adj		frustrated
+> See [self expression](#self_expression) for more vocabulary to describe how you are doing.
 
 ## Personal information
 ¿de dónde es (usted)?			phr		where are you from?
@@ -340,26 +331,38 @@ invierno				nm		winter
 
 # Daily routines
 vez					nf		time, occasion
+plan					nm		plan
+internet				na		internet
+
+## Action verbs
 lavar					v		to wash
 lavarse					vr		to wash oneself
 llegar					v		to arrive
 planear					v		to plan
-plan					nm		plan
 entrar					v		to enter
 buscar					v		to search, to look for, to seek
 encontrar				v		to find
 comenzar				v		to start
-internet				na		internet
 invitar					v		to invite
 te invito a				phr		I invite you to
 llevar					v		to take, to carry; to wear (clothing)
+llevarse				vr		to take with one
 traer					v		to bring
 tener que				phr		to have to
 usar					v		to use; to wear (clothing)
-pedir que				phr		to ask that (a request be done)
 pedir					v		to ask (a request, not a question)			
+pedir que				phr		to ask that (a request be done)
 haber de				phr		have to; need to
 sentarse				v		to sit
+castigar				v		to punish
+sacar					v		to take out
+sacar la basura 			phr		to take out the trash
+quitar					v		to remove, to take away
+alejar					v		to move away from; to keep away, to fend off, to dispel
+alejarse				vr		to remove oneself
+descubrir				v		to discover, to find; to reveal, to expose; to uncover, to unveil 
+acercarse a				phr		to move towards, to approach; to come by, to drop by, to pop in; to take interest in
+alejarse de				phr		to move away from, to go far from; to withdraw from, to stop taking part in
 
 ## Everyday objects
 bolígrafo				nm		pen
@@ -518,9 +521,14 @@ luna 					nf		moon
 ## Disasters
 diluvio					nm		flood
 
+# Hobbies
+## Hiking
+
 # Travel
 viajar					v		to travel
 viaje					nm		trip, journey
+guiar					v		to guide
+guía					n		guide
 boleto					nm		ticket
 maleta					nf		suitcase
 
@@ -574,6 +582,11 @@ seguro médico				nm		medical insurance
 ## Body parts
 ojo					nm		eye
 
+# Professions
+ingeniero				n		engineer
+ingeniería				nf		engineering
+juez					n		judge
+
 # Work
 charla					nf		talk; chat, conversation
 
@@ -586,25 +599,63 @@ sacerdote				nm		priest
 sacerdocio				nm		priesthood
 estar llamado a				phr		to be called to 
 
+## Biblical language
+entregar				v		to hand over; to submit
+entregarse				vr		to surrender; to turn oneself in
+destierro				nm		exile
+ahorcarse				vr		to hang oneself
+bondadoso				adj		benevolent, kind
+viuda					nf		widow
+
 # Human person
-cansado					adj		tired, exhausted
-
-## Emotions
-amor					nm		love
-disfrutar				v		to enjoy
-miedo					nm		fear
-temor					nm		fear
-
-## Physiology
 ## Self expression
+gustar					v		to please, to like
+me gusta				phr		I like (lit. it pleases me)
+creer					v		to believe
+creo que				phr		I belive that; I think that
+pensar					v		to think
+pienso que				phr		I think that
 preferir				v		to prefer
 preferible				adj		preferable
 percibir				v		to perceive
 al principio				phr		at first
 revelar					v		to reveal
-pensar					v		to think
 tener miedo de				phr		to have a fear of
-a mi					phr		for me
+
+## Emotions
+### Adjectives
+feliz					adj		happy
+triste					adj		sad
+cansado					adj		tired, exhausted
+contento				adj		content, satisfied; happy
+aburrido				adj		bored, boring
+emocionado				adj		excited
+frustrado				adj		frustrated
+afligido				adj		heartbroken
+
+### Nouns
+amor					nm		love
+miedo					nm		fear
+temor					nm		fear
+
+### Verbs
+amar					v		to love
+tener miedo				v		to be afraid of
+temer					v		to fear
+disfrutar				v		to enjoy
+querer					v		to love; to want
+
+## Qualities
+liel					adj		loyal
+lealtad					nf		loyalty
+fiel					adj		faithful
+fidelidad				nf		faithfulness
+tierno					adj		tender
+ternura					nf		tenderness
+amable					adj		kind
+amabilidad				nf		kindness
+benévolo				adj		benevolent
+benevolencia				nf		benevolence
 
 # Uncategorized so far
 quitar					v		to remove
