@@ -172,18 +172,21 @@ llamar					v		to call
 me llamo				phr		I am called
 mucho gusto				phr		nice to meet you
 
-## Greetings and responses
+## Greetings
 ¿cómo está (usted)?			phr		how are you? (formal)
 ¿cómo estás?				phr		how are you? (informal)
-estoy bien, gracias			phr		I am well, thank you				
+estoy bien, gracias			phr		I am well, thank you
+
+
+### Responses to how are you?			
 más o menos				phr		so-so, not too bad
 feliz					adj		happy
-contento(a)				adj		happy, content, satisfied
+contento				adj		happy, content, satisfied
 triste					adj		sad
-aburrido(a)				adj		bored, boring
-cansado(a)				adj		tired
-emocionado(a)				adj		excited
-frustrado(a)				adj		frustrated
+aburrido				adj		bored, boring
+cansado				adj		tired
+emocionado				adj		excited
+frustrado				adj		frustrated
 
 ## Personal information
 ¿de dónde es (usted)?			phr		where are you from?
@@ -295,7 +298,7 @@ sin embargo				phr		however; nevertheless, nonetheless
 no obstante				phr		however; nevertheless, nonetheless
 aunque					conj		although, even though; even if
 por eso					phr		that's why
-en cambio				phr		instead
+en cambio				phr		instead, on the other hand, conversely
 mientras que				phr		whereas
 sino					conj		but rather
 
@@ -373,11 +376,11 @@ cuenta					nf		check
 todavía no estamos listos		phr		we are not ready yet
 
 ### Describing food
-sabroso/a				adj		delicious, tasty
-delicioso/a				adj		delicious
+sabroso				adj		delicious, tasty
+delicioso				adj		delicious
 rico					adj		delicious, tasty, yummy; rich
-está sabroso/a				phr		it's delicious/tasty
-estaba sabroso/a			phr		it was delicious/tasty
+está sabroso				phr		it's delicious/tasty
+estaba sabroso			phr		it was delicious/tasty
 
 ## Shopping
 
@@ -387,7 +390,7 @@ partido					nm		game; party
 # Architecture
 puerta					nf		door
 ventana					nf		window
-abierto/a				adj		open
+abierto				adj		open
 					
 ## Domestic
 cuarto					nm		room
@@ -541,6 +544,7 @@ lado					nm		side
 al otro lado de				phr		on the other side of the
 el camino a				phr		the road to
 fuera de camino				phr		off-road; out of the way
+al norte del				phr		to the north of
 
 ## Cardinal directions
 punto cardinal				nm		cardinal direction
@@ -552,6 +556,8 @@ noreste					nm		northeast
 noroeste				nm		northwest
 sudeste					nm		southeast
 sudoeste				nm		southwest
+
+### Adjectival forms
 norteño					adj		northern
 sureño					adj		southern
 oriental				adj		eastern
