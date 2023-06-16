@@ -1,3 +1,4 @@
+import hashlib
 import re
 
 from airium import Airium
@@ -12,9 +13,10 @@ MAX_REPLACEMENTS = 12
 a = Airium()
 words = []
 parts = set()
+corpus = []
 
 
-def write_table(table_data_fn):
+def write_table(table_data_fn, l1_header_fn, l2_header_fn, l3_header_fn):
     with a.table():
         with a.thead(style='visibility: collapse;'):
             with a.tr():
@@ -26,6 +28,7 @@ def write_table(table_data_fn):
                     a('Definitions')
         with a.tbody():
             for data in table_data_fn:
+                hash_id = hashlib.md5(bytes(data, 'utf-8')).hexdigest()[0:12]
                 data = re.split(r'\t+', data)
                 word = data[0]
                 words.append(word)  # TODO a better way to do this
@@ -35,21 +38,37 @@ def write_table(table_data_fn):
                 parts.add(part)
                 defn = data[2]
                 with a.tr():
+                    tsv_data = ''
                     with a.td():
-                        a('<a href="https://www.linguee.com/english-spanish/search?source=auto&query='
-                          + query_word + '"'
-                          + ' target="_blank" rel="noopener noreferrer"' + '>'
-                          + word + '</a>')
+                        # TODO: Rewrite all manual to a(id= etc)
+                        spanish = '<a id=' + hash_id \
+                          + ' href="https://www.linguee.com/english-spanish/search?source=auto&query=' \
+                          + query_word + '"' \
+                          + ' target="_blank" rel="noopener noreferrer"' + '>' \
+                          + word + '</a>'
+                        a(spanish)
+                        tsv_data += spanish + '\t'
                     with a.td():
-                        a('<a href="https://www.wordreference.com/es/en/translation.asp?spen='
-                          + query_word + '"'
-                          + ' target="_blank" rel="noopener noreferrer"' + '>'
-                          + part + '</a>')
+                        part_of_speech = '<a href="https://www.wordreference.com/es/en/translation.asp?spen='  \
+                          + query_word + '"' \
+                          + ' target="_blank" rel="noopener noreferrer"' + '>' \
+                          + part + '</a>'
+                        a(part_of_speech)
+                        tsv_data += part_of_speech + '<br>'
                     with a.td():
-                        a('<a href="https://www.spanishdict.com/translate/'
-                          + query_word + '"'
-                          + ' target="_blank" rel="noopener noreferrer"' + '>'
-                          + defn + '</a>')
+                        definition = '<a href="https://www.spanishdict.com/translate/' \
+                          + query_word + '"' \
+                          + ' target="_blank" rel="noopener noreferrer"' + '>' \
+                          + defn + '</a>'
+                        a(definition)
+                        tsv_data += definition + '\t'
+                    headers = 'h1:_' + l1_header_fn
+                    if l2_header_fn:
+                        headers += ' ' + 'h2:_' + l2_header_fn
+                    if l3_header_fn:
+                        headers += ' ' + 'h3:_' + l3_header_fn
+                    tsv_data += headers
+                    corpus.append(tsv_data)
 
 
 def format_header(h: str):
@@ -90,12 +109,15 @@ with a.html():
 
         # Create the dictionary
         with open('vocab.txt', 'r', encoding='utf-8') as file:
+            l1_header = None
+            l2_header = None
+            l3_header = None
             table_data = []
             while line := file.readline():
                 line = line.strip()
                 if line.startswith('#') or line.startswith('>'):  # Then we have a title or comment
                     if table_data:  # If there is a table to write, then write it
-                        write_table(table_data)
+                        write_table(table_data, l1_header, l2_header, l3_header)
                         table_data = []
                     if line.startswith('>'):
                         comment = line[1:].strip()
@@ -112,27 +134,40 @@ with a.html():
                         with a.p():
                             a(comment)
                     elif line.startswith('###'):
+                        header = line[3:].strip()
+                        l3_header = format_header(header)  # Save header info
                         with a.h4():
-                            a(line[3:].strip())
+                            a(header)
                     elif line.startswith('##'):
                         header = line[2:].strip()
-                        with a.h3(id=format_header(header)):
+                        formatted_header = format_header(header)
+                        l2_header = formatted_header
+                        l3_header = None  # Reset l3 sub headers
+                        with a.h3(id=formatted_header):
                             a(header)
                     else:
                         header = line[1:].strip()
-                        with a.h2(id=format_header(header)):
+                        formatted_header = format_header(header)
+                        l1_header = formatted_header
+                        l2_header = None  # Reset l2 and l3 sub headers
+                        l3_header = None
+                        with a.h2(id=formatted_header):
                             a(header)
                             a.hr()
                 elif line:
                     table_data.append(line)
             if table_data:  # Write the final table data
-                write_table(table_data)
+                write_table(table_data, l1_header, l2_header, l3_header)
 
 html = str(a)  # casting to string extracts the value
 
 # Write the html file
 with open('./public/index.html', 'w', encoding='utf-8') as file:
     file.write(html)
+
+with open('./private/corpus.txt', 'w', encoding='utf-8') as file:
+    for entry in corpus:
+        file.write(f"{entry}\n")
 
 # Some metadata for reference
 seen = set()
