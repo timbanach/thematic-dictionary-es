@@ -1,4 +1,5 @@
 # Foundations
+> TODO: Add the alphabet
 > TODO: Reorder so that a lot of this is in grammar
 > Note: See [abbreviations](https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR) for the general sense of how the parts of speech should be recorded.
 ser					v		to be
@@ -281,6 +282,8 @@ duodécimo				adj		twelfth
 decimosegundo				adj		twelfth
 
 # Grammar
+> TODO: Add the names of the different tenses
+
 ## Transition words
 porque					conj		because
 entonces				adv		then
@@ -332,7 +335,7 @@ invierno				nm		winter
 # Daily routines
 vez					nf		time, occasion
 plan					nm		plan
-internet				na		internet
+internet				n		internet
 
 ## Action verbs
 lavar					v		to wash
@@ -368,6 +371,7 @@ alejarse de				phr		to move away from, to go far from; to withdraw from, to stop
 bolígrafo				nm		pen
 teléfono				nm		telephone
 número de teléfono			phr		telephone number
+basura					nf		trash
 
 ## Ordering at a restaurant
 me puede dar				phr		can you give me
@@ -580,7 +584,36 @@ seguro médico				nm		medical insurance
 
 # Health
 ## Body parts
+cabeza					nf		head
+frente					nf		forehead
 ojo					nm		eye
+rostro					nm		face
+nariz					nf		nose
+oreja					nf		ear
+boca					nf		mouth
+cuello					nm		neck
+hombro					nm		shoulder
+costilla				nf		rib
+brazo					nm		arm
+codo					nf		elbow
+mano					nm		hand
+dedo					nm		finger
+pierna					nf		leg
+rodilla					nf		knee
+tobillo					nm		ankle
+pie					nm		foot
+espalda					nf		back
+columna					nf		spine
+vertebral				nf		vertebra
+pantorrilla				nf		calf
+
+### Fingers
+palma					nf		palm
+dedo pulgar				nm		thumb
+dedo indice				nm		index finger
+dedo medio				nm		middle finger
+dedo anular				nm		ring finger
+dedo meñique				nm		little finger
 
 # Professions
 ingeniero				n		engineer
@@ -623,7 +656,6 @@ revelar					v		to reveal
 tener miedo de				phr		to have a fear of
 
 ## Emotions
-### Adjectives
 feliz					adj		happy
 triste					adj		sad
 cansado					adj		tired, exhausted
@@ -633,18 +665,18 @@ emocionado				adj		excited
 frustrado				adj		frustrated
 afligido				adj		heartbroken
 
-### Nouns
-amor					nm		love
-miedo					nm		fear
-temor					nm		fear
-
-### Verbs
+### Emotive actions
 amar					v		to love
+amor					nm		love
 tener miedo				v		to be afraid of
+miedo					nm		fear
 temer					v		to fear
+temor					nm		fear
 disfrutar				v		to enjoy
 querer					v		to love; to want
-
+lagrimar				v		to cry
+lágrima					nf		tear
+		
 ## Qualities
 liel					adj		loyal
 lealtad					nf		loyalty
@@ -658,7 +690,6 @@ benévolo				adj		benevolent
 benevolencia				nf		benevolence
 
 # Uncategorized so far
-quitar					v		to remove
 tierra					nf		earth
 amistad					nf		friendship
 momento					nm		moment
@@ -682,10 +713,11 @@ dejar de				phr		to just stop doing something
 dejar					v		to leave
 este/esta				?		this (ALSO DO THAT)
 es mejor				phr		it is better; he/she is better
-guía					nc		guide
 varios					adj		various
 firmar					v		to sign
 dar a conocer				phr		to make known
 aceptar					v		to accept
 por el bien de				phr		for the good of
 corto					adj		short, not long
+test					test		test
+test					test		test1
