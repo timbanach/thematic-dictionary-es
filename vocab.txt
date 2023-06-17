@@ -394,6 +394,8 @@ estaba sabroso				phr		it was delicious/tasty
 ## Sports
 partido					nm		game; party
 
+## Clothing
+
 # Architecture
 puerta					nf		door
 ventana					nf		window
@@ -472,7 +474,7 @@ olla					nf		pot
 # Slang
 agua de calcetínes			phr		sock water
 
-# Nature
+# Nature and environment
 ## Flora
 árbol					nm		tree
 hoja					nf		leaf
@@ -499,7 +501,7 @@ lago					nm		lake
 río					nm		river
 volcán					nm		volcano
 
-# Relationships
+# Family and relationships
 señor					nm		sir; mister; adult man, gentleman; master
 señora					nf		ma'am; missus; adult woman
 señorita				nf		miss; young woman, lady
@@ -511,16 +513,8 @@ vecino					n		neighbor
 # Describing people
 dueño					n		owner
 
-# Food
-
-## Utensils
-tenedor					nm		fork
-cuchara					nf		spoon
-cuchillo				nm		knife
-
-### Tablewear
-
-### Drinkwear
+# Food and drink
+> For utensils, tablewear, drinkwear, etc. see [dining room items](#dining_room).
 
 ## Vegetables
 verdura					nf		vegetable
@@ -561,7 +555,8 @@ yuca					nf		yucca
 ## Fruits
 ## Meats
 
-## Breakfast
+## Meals
+### Breakfast
 café					nm		coffee
 taza					nf		mug
 avena					nf		oatmeal
@@ -569,6 +564,9 @@ huevo					nm		egg
 banana					nf		banana
 pan tostado				nm		toast				
 tostar					v		to toast
+
+### Lunch
+### Dinner
 
 # Geography
 ciudad					nf		city
@@ -591,10 +589,10 @@ luna 					nf		moon
 ## Disasters
 diluvio					nm		flood
 
-# Hobbies
+# Hobbies and leisure
 ## Hiking
 
-# Travel
+# Travel and transportation
 viajar					v		to travel
 viaje					nm		trip, journey
 guiar					v		to guide
@@ -681,16 +679,24 @@ dedo medio				nm		middle finger
 dedo anular				nm		ring finger
 dedo meñique				nm		little finger
 
-# Professions
+# Occupations and professions
 ingeniero				n		engineer
 ingeniería				nf		engineering
 juez					n		judge
 
-# Work
+# 
 charla					nf		talk; chat, conversation
 
-# School
+# Education
 estudiante				n		student
+
+# Countries and nationalities
+
+# Arts and culture
+## Literature
+## Music
+## Film
+## Cultural events
 
 
 # Religion
@@ -706,7 +712,9 @@ ahorcarse				vr		to hang oneself
 bondadoso				adj		benevolent, kind
 viuda					nf		widow
 
-# Human person
+# Technology
+
+# Self expression and emotions
 ## Self expression
 gustar					v		to please, to like
 me gusta				phr		I like (lit. it pleases me)
