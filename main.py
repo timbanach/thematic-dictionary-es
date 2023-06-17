@@ -62,11 +62,11 @@ def write_table(table_data_fn, l1_header_fn, l2_header_fn, l3_header_fn):
                           + defn + '</a>'
                         a(definition)
                         tsv_data += definition + '\t'
-                    headers = 'h1:_' + l1_header_fn
+                    headers = 'h1:' + l1_header_fn
                     if l2_header_fn:
-                        headers += ' ' + 'h2:_' + l2_header_fn
+                        headers += ' ' + 'h2:' + l1_header_fn + ':' + l2_header_fn
                     if l3_header_fn:
-                        headers += ' ' + 'h3:_' + l3_header_fn
+                        headers += ' ' + 'h3:' + l1_header_fn + ':' + l2_header_fn + ':' + l3_header_fn
                     tsv_data += headers
                     corpus.append(tsv_data)
 
