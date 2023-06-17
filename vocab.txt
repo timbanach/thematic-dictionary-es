@@ -400,7 +400,7 @@ partido					nm		game; party
 puerta					nf		door
 ventana					nf		window
 abierto					adj		open
-					
+				
 ## At home
 cuarto					nm		room
 
@@ -659,7 +659,7 @@ cuello					nm		neck
 hombro					nm		shoulder
 costilla				nf		rib
 brazo					nm		arm
-codo					nf		elbow
+codo					nm		elbow
 mano					nm		hand
 dedo					nm		finger
 pierna					nf		leg
