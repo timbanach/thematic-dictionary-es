@@ -383,11 +383,11 @@ cuenta					nf		check
 todavía no estamos listos		phr		we are not ready yet
 
 ### Describing food
-sabroso				adj		delicious, tasty
+sabroso					adj		delicious, tasty
 delicioso				adj		delicious
 rico					adj		delicious, tasty, yummy; rich
 está sabroso				phr		it's delicious/tasty
-estaba sabroso			phr		it was delicious/tasty
+estaba sabroso				phr		it was delicious/tasty
 
 ## Shopping
 
@@ -397,16 +397,80 @@ partido					nm		game; party
 # Architecture
 puerta					nf		door
 ventana					nf		window
-abierto				adj		open
+abierto					adj		open
 					
-## Domestic
+## At home
 cuarto					nm		room
-habitación				nf		room; bedroom
-cocina					nf		kitchen
 
-## Furniture
+### Living room
+sala					nf		living room
+sofá 					nm		sofa, couch
+sillón					nm		arm chair, easy chair
+teléfono				nm		telephone
+librera					nf		bookcase
+estante					nm		shelf; bookcase
+televisor				nm		television
+mesa del centro				nf		coffee table
+
+### Bedroom
+habitación				nf		room; bedroom
+dormitorio				nm		bedroom
+cama					nf		bed
+almohada				nf		pillow
+sábana					nf		sheet
+poncho					nm		blanket; poncho
+ropero					nm		wardrobe
+armario					nm		wardrobe, closet; cupboard; cabinet
+alfombra				nf		carpet, rug
+lámpara					nf		lamp
+
+### Bathroom
+baño					nm		bathroom
+sanitarío				nm		bathroom, restroom; toilet
+lavamanos				nm		sink
+lavabo					nm		sink
+toalla					nf		towel
+ducha					nf		shower
+papelero				nm		wastbasket
+basurero				nm		trash can, garbage can; landfill, dump; garbage man
+cortina					nf		curtain
+jabón					nm		soap
+espejo					nm		mirror
+
+### Dining room
+comedor					nm		dining room
 silla					nf		chair
 mesa					nf		table
+mesa del comedor			nf		dining table
+plato					nm		plate
+cubierto				nm		silverware (usually used in the plural, cubiertos)
+tenedor					nm		fork
+cuchillo				nm		knife
+cuchara					nf		spoon
+cucharita				nf		teaspoon
+mantel					nm		tablecloth
+vaso					nm		glass; cup
+taza					nf		cup; mug
+servilleta				nf		napkin
+copa					nf		glass
+copa de vino				nf		wineglass
+
+### Kitchen
+cocina					nf		kitchen
+estufa					nf		stove
+refri					nf		fridge (colloquial)
+refrigerador				nm		refrigerator
+horno					nm		oven
+fregadero				nm		kitchen sink
+gabinete				nm		kitchen cabinet
+isla de cocina				nf		kitchen island
+licuadora				nf		blender
+batidora				nf		mixer machine; whisk; blender
+sartén					nm		frypan, skillet
+olla					nf		pot
+			
+# Slang
+agua de calcetínes			phr		sock water
 
 # Nature
 ## Flora
@@ -503,6 +567,8 @@ taza					nf		mug
 avena					nf		oatmeal
 huevo					nm		egg
 banana					nf		banana
+pan tostado				nm		toast				
+tostar					v		to toast
 
 # Geography
 ciudad					nf		city
