@@ -299,6 +299,13 @@ sino					conj		but rather
 # Time
 antes					adv		before
 despues					adv		after
+mientras				conj		while
+siempre					adv		always
+cada					adv		each; every
+cada día				phr		every day
+frecuentemente				adv		frequently
+con frecuencia				phr		often, frequently
+frecuencia				nf		frequency
 a partir de				phr		from, starting; as of; beginning in, since
 de una a dos				phr		from one to two
 
@@ -366,6 +373,11 @@ alejarse				vr		to remove oneself
 descubrir				v		to discover, to find; to reveal, to expose; to uncover, to unveil 
 acercarse a				phr		to move towards, to approach; to come by, to drop by, to pop in; to take interest in
 alejarse de				phr		to move away from, to go far from; to withdraw from, to stop taking part in
+charlar					v		to chat
+conversar				v		to talk, to converse, to chat
+platicar				v		to talk, to chat
+arreglar				v		to fix, to repair
+reparar					v		to repair, to fix
 
 ## Everyday objects
 bolígrafo				nm		pen
@@ -468,10 +480,12 @@ gabinete				nm		kitchen cabinet
 isla de cocina				nf		kitchen island
 licuadora				nf		blender
 batidora				nf		mixer machine; whisk; blender
-sartén					nm		frypan, skillet
+sartén					n		frypan, skillet (masculine or feminine noun)
 olla					nf		pot
 			
 # Slang
+chico					adj, nf		small, little, young; kid, boy, girl, guy; boyfriend, girlfriend
+guapo					adj		handsome; pretty (feminine)  
 agua de calcetínes			phr		sock water
 
 # Nature and environment
@@ -528,8 +542,11 @@ tío/a					n		uncle/aunt
 primo/a					n		cousin
 sobrino/a				n		nephew/niece
 cuñado/a				n		brother-in-law/sister-in-law
+suegro/a				n		father-in-law/mother-in-law
 yerno					nm		son-in-law
 nuera					nf		daughter-in-law
+padrastro				nm		step father
+madrastra				nf		step mother
 materno					adj		maternal
 paterno					adj		paternal
 
@@ -669,9 +686,12 @@ seguro médico				nm		medical insurance
 # Health
 ## Body parts
 cabeza					nf		head
+pelo					nm		hair
+cabello					nm		hair
 frente					nf		forehead
 ojo					nm		eye
 rostro					nm		face
+cara					nf		face
 nariz					nf		nose
 oreja					nf		ear
 boca					nf		mouth
@@ -680,7 +700,7 @@ hombro					nm		shoulder
 costilla				nf		rib
 brazo					nm		arm
 codo					nm		elbow
-mano					nm		hand
+mano					nf		hand
 dedo					nm		finger
 pierna					nf		leg
 rodilla					nf		knee
@@ -693,6 +713,7 @@ pantorrilla				nf		calf
 
 ### Fingers
 palma					nf		palm
+uña					nf		finger nail
 dedo pulgar				nm		thumb
 dedo indice				nm		index finger
 dedo medio				nm		middle finger
@@ -701,12 +722,27 @@ dedo meñique				nm		little finger
 
 # Occupations and professions
 dueño					n		owner
+juez					n		judge
+criada					nf		maid
+electricista				n		electrician
+
+## Profession and professional pairs
 ingeniero				n		engineer
 ingeniería				nf		engineering
-juez					n		judge
+carpintero				n		carpenter
+carpintería				nf		carpentry
+plomero					n		plumber
+plomería				nf		plumbing
+
 
 # Education
+educación				nf		education
+escuela					nf		school
 estudiante				n		student
+escuela primaria			nf		elementary school
+escuela secundaria			nf		middle school, junior high school; high school
+bachillerato				nm		high school
+
 
 # Countries and nationalities
 
