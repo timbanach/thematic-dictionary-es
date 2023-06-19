@@ -502,16 +502,36 @@ río					nm		river
 volcán					nm		volcano
 
 # Family and relationships
+familia					nf		family
+relación				nf		relationship
+vecino					n		neighbor
+amigo					n		friend
+niño					nm		boy
+niña					nf		girl
+
+## Honorifics
 señor					nm		sir; mister; adult man, gentleman; master
 señora					nf		ma'am; missus; adult woman
 señorita				nf		miss; young woman, lady
-vecino					n		neighbor
 
-## Family
-## Friends
-
-# Describing people
-dueño					n		owner
+## Family members
+> In general, the plural form is in the masculine. For example, parents is los padres.
+padre					nm		father
+madre					nf		mother
+papá					nm		dad
+mamá					nf		mom
+hermano/a				n		brother/sister
+hijo/a					n		son/daughter
+esposo/a				n		husband/wife		
+abuelo/a				n		grandfather/grandmother		
+tío/a					n		uncle/aunt
+primo/a					n		cousin
+sobrino/a				n		nephew/niece
+cuñado/a				n		brother-in-law/sister-in-law
+yerno					nm		son-in-law
+nuera					nf		daughter-in-law
+materno					adj		maternal
+paterno					adj		paternal
 
 # Food and drink
 > For utensils, tablewear, drinkwear, etc. see [dining room items](#dining_room).
@@ -680,12 +700,10 @@ dedo anular				nm		ring finger
 dedo meñique				nm		little finger
 
 # Occupations and professions
+dueño					n		owner
 ingeniero				n		engineer
 ingeniería				nf		engineering
 juez					n		judge
-
-# 
-charla					nf		talk; chat, conversation
 
 # Education
 estudiante				n		student
@@ -793,5 +811,4 @@ dar a conocer				phr		to make known
 aceptar					v		to accept
 por el bien de				phr		for the good of
 corto					adj		short, not long
-test					test		test
-test					test		test1
+charla					nf		talk; chat, conversation
