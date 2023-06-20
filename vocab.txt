@@ -1,15 +1,70 @@
 # Foundations
 > TODO: Add the alphabet
-> TODO: Reorder so that a lot of this is in grammar
 > Note: See [abbreviations](https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR) for the general sense of how the parts of speech should be recorded.
+
+## The alphabet
+
+## Foundational words
 ser					v		to be
 estar					v		to be
 sí					adv, nm, interj	yes
 no					adv, nm, interj	no
-nunca					adv		never
 bien					adv, nm, interj	well; good; ok
 bueno					adj, interj	good; ok
 hay					vi		there is, there are; is there?, are there?
+
+## Ubiquitous verbs
+> TODO: Perhaps break this up into helper verbs?
+ir					v 		to go
+haber					v		to have (in compound tenses)
+tener					v		to have
+conocer					v		to know (people, places, or in general things you are familiar with)
+saber					v		to know (facts, information)
+hacer					v		to do; to make
+poder					v		to be able to, can
+deber					v		should; must; ought
+
+# Survival Spanish
+por favor				phr		please
+gracias					phr		thank you
+de nada					phr		you're welcome; it's nothing (literal)
+
+## Introductions
+llamar					v		to call
+¿cómo se llama?				phr		what do you call yourself? (formal)
+¿cómo te llamas?			phr		what do you call yourself? (informal)
+me llamo				phr		I am called
+mucho gusto				phr		nice to meet you
+
+## Greetings
+hola					interj		hello
+buen día				phr		good day
+buenos días				phr		good morning
+buenas tardes				phr		good afternoon
+buenas noches				phr		good evening; good night
+¿cómo está (usted)?			phr		how are you? (formal)
+¿cómo estás?				phr		how are you? (informal)
+estoy bien, gracias			phr		I am well, thank you
+más o menos				phr		so-so, not too bad
+> See [self expression](#self_expression) for more vocabulary to describe how you are doing.
+
+## Farewells
+adios					interj		good bye; to God, Godspeed (literal)
+hasta luego				phr		see you later
+hasta pronto				phr		see you soon
+hasta mañana				phr		see you tomorrow
+hasta + tiempo				phr		see you (at some time in the future)
+
+## Personal information
+¿de dónde es (usted)?			phr		where are you from?
+soy de					phr		I am from
+¿qué es usted?				phr		what are you?
+soy ingeniero, medico, etc.		phr		I am an engineer, doctor, etc.
+¿quién es ella?				phr		who is she?
+ella es la doctora			phr		she is the doctor
+
+# Grammar
+> TODO: Add the names of the different tenses
 
 ## Articles
 ### Definite articles
@@ -152,41 +207,20 @@ cuál					pron		which; what
 cuánto					pron		how much
 cuántos/cuántas				pron		how many
 
-## Ubiquitous verbs
-ir					v 		to go
-haber					v		to have (in compound tenses)
-tener					v		to have
-conocer					v		to know (people, places, or in general things you are familiar with)
-saber					v		to know (facts, information)
-hacer					v		to do; to make
-poder					v		to be able to, can
-deber					v		should; must; ought
+## Transition words
+porque					conj		because
+entonces				adv		then
+por lo tanto				phr		therefore
+sin embargo				phr		however; nevertheless, nonetheless
+no obstante				phr		however; nevertheless, nonetheless
+aunque					conj		although, even though; even if
+por eso					phr		that's why
+en cambio				phr		instead, on the other hand, conversely
+mientras que				phr		whereas
+sino					conj		but rather
 
-# Survival Spanish
-por favor				phr		please
-gracias					phr		thank you
-
-## Introductions
-llamar					v		to call
-¿cómo se llama?				phr		what do you call yourself? (formal)
-¿cómo te llamas?			phr		what do you call yourself? (informal)
-me llamo				phr		I am called
-mucho gusto				phr		nice to meet you
-
-## Greetings
-¿cómo está (usted)?			phr		how are you? (formal)
-¿cómo estás?				phr		how are you? (informal)
-estoy bien, gracias			phr		I am well, thank you
-más o menos				phr		so-so, not too bad
-> See [self expression](#self_expression) for more vocabulary to describe how you are doing.
-
-## Personal information
-¿de dónde es (usted)?			phr		where are you from?
-soy de					phr		I am from
-¿qué es usted?				phr		what are you?
-soy ingeniero, medico, etc.		phr		I am an engineer, doctor, etc.
-¿quién es ella?				phr		who is she?
-ella es la doctora			phr		she is the doctor
+## Positive and negative words
+nunca					adv		never
 
 # Numbers
 ## Cardinal numbers
@@ -280,21 +314,6 @@ undécimo				adj		eleventh
 decimoprimero				adj		eleventh
 duodécimo				adj		twelfth
 decimosegundo				adj		twelfth
-
-# Grammar
-> TODO: Add the names of the different tenses
-
-## Transition words
-porque					conj		because
-entonces				adv		then
-por lo tanto				phr		therefore
-sin embargo				phr		however; nevertheless, nonetheless
-no obstante				phr		however; nevertheless, nonetheless
-aunque					conj		although, even though; even if
-por eso					phr		that's why
-en cambio				phr		instead, on the other hand, conversely
-mientras que				phr		whereas
-sino					conj		but rather
 
 # Time
 antes					adv		before
@@ -424,7 +443,7 @@ teléfono				nm		telephone
 librera					nf		bookcase
 estante					nm		shelf; bookcase
 televisor				nm		television
-mesa del centro				nf		coffee table
+mesa de centro				nf		coffee table
 
 ### Bedroom
 habitación				nf		room; bedroom
