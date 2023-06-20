@@ -3,6 +3,40 @@
 > Note: See [abbreviations](https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR) for the general sense of how the parts of speech should be recorded.
 
 ## The alphabet
+alfabeto				nm		alphabet
+abecedario				nm		alphabet
+
+### A-z
+a					alph		a
+b					alph		be
+c					alph		ce
+ch					alph		che
+d					alph		de
+e					alph		e
+f					alph		efe
+g					alph		ge
+h					alph		hache
+i					alph		i
+j					alph		jota
+k					alph		ka
+l					alph		ele
+ll					alph		elle
+m					alph		eme
+n					alph		ene
+ñ					alph		eñe
+o					alph		o
+p					alph		pe
+q					alph		cu
+r					alph		ere
+rr					alph		erre
+s					alph		ese
+t					alph		te
+u					alph		u
+v					alph		uve
+w					alph		uve doble
+x					alph		equis
+y					alph		ye
+z					alph		zeta
 
 ## Foundational words
 ser					v		to be
