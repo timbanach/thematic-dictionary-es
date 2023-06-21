@@ -1,2 +1,4 @@
 .idea/
 __pycache__
+public/index.html
+private/corpus.txt

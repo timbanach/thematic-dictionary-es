@@ -1,6 +1,905 @@
-# Food
-## Breakfast
+# Foundations
+> Note: See [abbreviations](https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR) for the general sense of how the parts of speech should be recorded.
+
+## The alphabet
+alfabeto				nm		alphabet
+abecedario				nm		alphabet
+
+### A-z
+a					alph		a
+b					alph		be
+c					alph		ce
+ch					alph		che
+d					alph		de
+e					alph		e
+f					alph		efe
+g					alph		ge
+h					alph		hache
+i					alph		i
+j					alph		jota
+k					alph		ka
+l					alph		ele
+ll					alph		elle
+m					alph		eme
+n					alph		ene
+ñ					alph		eñe
+o					alph		o
+p					alph		pe
+q					alph		cu
+r					alph		ere
+rr					alph		erre
+s					alph		ese
+t					alph		te
+u					alph		u
+v					alph		uve
+w					alph		uve doble
+x					alph		equis
+y					alph		ye
+z					alph		zeta
+
+## Foundational words
+> TODO: I still don't like this here...
+ser					v		to be
+estar					v		to be
+sí					adv, nm, interj	yes
+no					adv, nm, interj	no
+bien					adv, nm, interj	well; good; ok
+bueno					adj, interj	good; ok
+hay					vi		there is, there are; is there?, are there?
+
+## Ubiquitous verbs
+> TODO: Perhaps break this up into helper verbs?
+ir					v 		to go
+haber					v		to have (in compound tenses)
+tener					v		to have
+conocer					v		to know (people, places, or in general things you are familiar with)
+saber					v		to know (facts, information)
+hacer					v		to do; to make
+poder					v		to be able to, can
+deber					v		should; must; ought
+
+# Survival Spanish
+por favor				phr		please
+gracias					phr		thank you
+de nada					phr		you're welcome; it's nothing (literal)
+
+## Introductions
+llamar					v		to call
+¿cómo se llama?				phr		what do you call yourself? (formal)
+¿cómo te llamas?			phr		what do you call yourself? (informal)
+me llamo				phr		I am called
+mucho gusto				phr		nice to meet you
+
+## Greetings
+hola					interj		hello
+buen día				phr		good day
+buenos días				phr		good morning
+buenas tardes				phr		good afternoon
+buenas noches				phr		good evening; good night
+¿cómo está (usted)?			phr		how are you? (formal)
+¿cómo estás?				phr		how are you? (informal)
+estoy bien, gracias			phr		I am well, thank you
+más o menos				phr		so-so, not too bad
+> See [self expression](#self_expression) for more vocabulary to describe how you are doing.
+
+## Farewells
+adios					interj		good bye; to God, Godspeed (literal)
+hasta luego				phr		see you later
+hasta pronto				phr		see you soon
+hasta mañana				phr		see you tomorrow
+hasta + tiempo				phr		see you (at some time in the future)
+
+## Personal information
+¿de dónde es (usted)?			phr		where are you from?
+soy de					phr		I am from
+¿qué es usted?				phr		what are you?
+soy ingeniero, medico, etc.		phr		I am an engineer, doctor, etc.
+¿quién es ella?				phr		who is she?
+ella es la doctora			phr		she is the doctor
+
+# Grammar
+> TODO: Add the names of the different tenses
+
+## Articles
+### Definite articles
+el					art		definite article for masculine singular nouns
+los					art		definite article for masculine plural nouns
+la					art		definite article for feminine singular nouns
+las					art		definite article for feminine plural nouns
+
+### Indefinite articles
+un					art		indefinite article for masculine singular nouns
+unos					art		indefinite article for masculine plural nouns
+una					art		indefinite article for feminine singular nouns
+unas					art		indefinite article for feminine plural nouns
+
+## Pronouns
+> General order of pronouns: subject pronoun, indirect object pronoun, direct object pronoun, verb. However, if the verb is infinitive, imperative, or reflexive the direct/indirect object pronouns follow the verb.
+
+### Subject pronouns
+> From here - (This website has a lot of info on other types of pronouns - https://www.berlitz.com/blog/spanish-pronouns-direct-indirect-object)
+yo					pron		I
+tú					pron		you (informal)
+él					pron		he
+ella					pron		she
+usted					pron		you (formal)
+nosostros/nosotras			pron		we
+vosotros/vosotras			pron		you all (Spain, informal)
+ellos/ellas				pron		they
+ustedes					pron		you all (formal)
+
+### Direct object pronouns
+me					pron		me
+te					pron		you (informal)
+lo/la					pron		him/her; it; you (formal)
+nos					pron		us
+os					pron		you all (Spain, informal)
+los/las					pron		them; you all (formal)
+
+### Indirect object pronouns
+> When le is followed by a pronoun starting with l, it becomes se; for example, "dáselo" (give it to him).
+me					pron		to/for me
+te					pron		to/for you (informal)
+le/se					pron		to/for him/her; to/for it; to/for you (formal)
+nos					pron		to/for us
+os					pron		to/for you all (Spain, informal)
+les					pron		to/for them; to/for you all (formal)
+
+### Reflexive pronouns
+me					pron		myself
+te					pron		yourself (informal)
+se					pron		himself/herself; itself; yourself (formal)
+nos					pron		ourselves
+os					pron		yourselves (Spain, informal)
+se					pron		themselves; yourselves (formal)
+
+### Possesive pronouns
+> Note that possesive pronouns are always preceded by the definite article; for example "el mío" or "la mía." Also, these are actually relative adjectives, and agree in gender and number with the noun they modify.
+mío(s)/mía(s)				adj, pron	mine		
+tuyo(s)/tuya(s)				adj, pron	yours (informal)
+suyo(s)/suya(s)				adj, pron	his/hers; its; yours (formal)
+nuestro(s)/nuestra(s)			adj, pron	ours
+vuestro(s)/vuestra(s)			adj, pron	yours (Spain, informal)
+suyo(s)/suya(s)				adj, pron	theirs; yours (formal)
+
+### Prepositional pronouns
+> As the name suggests, these follow a preposition; for example, "esto es para ti" (this is for you). For the most part, they are the same as the subject pronouns.
+mí					pron		me
+ti					pron		you (informal)
+él					pron		him
+ella					pron		her
+usted					pron		you (formal)
+nosotros/nosotras			pron		us
+vosotros/vosotras			pron		you all (Spain, informal)
+ellos/ellas				pron		them
+ustedes					pron		you all (formal)
+> "With me" and "with you" are special cases:
+conmigo					pron		with me
+contigo					pron		with you
+
+### Relative pronouns
+que					pron		that, which; who, whom
+quien					pron		who
+quienes					pron		who (plural)
+el/la que				pron		the one that, that which
+los/las que				pron		those that, those which
+> Like the possive pronouns, "cuyo" is a relative adjective:
+cuyo(s)/cuya(s)				adj, pron	whose
+> In addition to being interrogative adverbs, "cuando" and "donde" can also be used as relative pronouns:
+cuando					adv, pron	when
+donde					adv, pron	where
+
+### Indefinite pronouns
+> TODO: Finish this
+
+### Demonstrative pronouns
+> TODO: Finish this
+
+## Prepositions
+> When the preposition applies to a secondary category, that category is listed in parenthesis after the definition.
+
+### Of relation
+para					prep		for; in order to (purpose)
+por					prep		for; by
+de					prep		of; from (location)
+con					prep		with
+sin					prep		without
+contra					prep		against
+según					prep		according to
+sobre					prep		about; on (location)
+versus					prep		versus
+vía					prep		through
+
+### Of location
+a					prep		to; at (time); for (people)
+en					prep		in, at, on
+debajo de				prep		under
+encima de				prep		on top of
+delante de				prep		in front of
+enfrente de				prep		in front of
+detras de				prep		behind
+entre					prep		between; among (relation)
+hacia					prep		toward; around (time)
+incluyendo				prep		including
+
+### Of time
+antes de				prep		before
+después de				prep		after
+desde					prep		since; from (location)
+durante					prep		during
+hasta					prep		until
+tras					prep		after; behind (location)
+
+## Interrogative words
+quién/quiénes				pron		who
+qué					pron		what
+dónde					adv		where
+cuándo					adv		when
+por qué					adv		why
+cómo					adv		how
+cuál					pron		which; what
+cuánto					pron		how much
+cuántos/cuántas				pron		how many
+
+## Transition words
+porque					conj		because
+entonces				adv		then
+por lo tanto				phr		therefore
+sin embargo				phr		however; nevertheless, nonetheless
+no obstante				phr		however; nevertheless, nonetheless
+aunque					conj		although, even though; even if
+por eso					phr		that's why
+en cambio				phr		instead, on the other hand, conversely
+mientras que				phr		whereas
+sino					conj		but rather
+
+## Positive and negative words
+nunca					adv		never
+
+# Numbers
+## Cardinal numbers
+> Enough examples are provided below to get the pattern.
+### Numbers 1-10
+uno					nm		one
+dos					nm		two
+tres					nm		three
+cuatro					nm		four
+cinco					nm		five
+seis					nm		six
+siete					nm		seven
+ocho					nm		eight
+nueve					nm		nine
+diez					nm		ten
+
+### Numbers 11-19
+once					nm		eleven
+doce					nm		twelve
+trece					nm		thirteen
+catorce					nm		fourteen
+quince					nm		fifteen
+dieciséis				nm		sixteen
+diecisiete				nm		seventeen
+dieciocho				nm		eighteen
+diecinueve				nm		nineteen
+
+### Numbers 20-29
+veinte					nm		twenty
+veintiuno				nm		twenty-one
+veintidós				nm		twenty-two
+veintitrés				nm		twenty-three
+veinticuatro				nm		twenty-four
+veinticinco				nm		twenty-five
+veintiséis				nm		twenty-six
+veintisiete				nm		twenty-seven
+veintiocho				nm		twenty-eight
+veintinueve				nm		twenty-nine
+
+### Numbers 30-39
+treinta					nm		thirty
+treinta y uno				nm		thirty-one
+treinta y dos				nm		thirty-two
+treinta y tres				nm		thirty-three
+
+### Numbers 40-99
+cuarenta				nm		forty
+cincuenta				nm		fifty
+sesenta					nm		sixty
+setenta					nm		seventy
+ochenta					nm		eighty
+noventa					nm		ninety
+
+### Numbers 100-199
+cien					nm		one hundred
+ciento uno				nm		one hundred and one
+ciento treinta y tres			nm		one hundred thirty-three
+
+### Numbers 200-999
+doscientos				nm		two hundred
+trescientos				nm		three hundred
+cuatrocientos				nm		four hundred
+quinientos				nm		five hundred
+seiscientos				nm		six hundred
+setecientos				nm		seven hundred
+ochocientos				nm		eight hundred
+novecientos				nm		nine hundred
+
+### Numbers 1000 and above
+> Note that mil does not use y, but millón does.
+mil					nm		one thousand
+mil uno					nm		one thousand and one
+dos mil					nm		two thousand
+dos mil dos				nm		two thousand and two
+un millón				nm		one million
+un millón y uno				nm		one million and one 
+tres millones y tres			nm		three million and three
+
+## Ordinal numbers
+primero					adj		first
+segundo					adj		second
+tercero					adj		third
+cuarto					adj		fourth
+quinto					adj		fifth
+sexto					adj		sixth
+séptimo					adj		seventh
+octavo					adj		eigth
+noveno					adj		ninth
+décimo					adj		tenth
+undécimo				adj		eleventh
+decimoprimero				adj		eleventh
+duodécimo				adj		twelfth
+decimosegundo				adj		twelfth
+
+# Time
+antes					adv		before
+despues					adv		after
+mientras				conj		while
+siempre					adv		always
+cada					adv		each; every
+cada día				phr		every day
+frecuentemente				adv		frequently
+con frecuencia				phr		often, frequently
+frecuencia				nf		frequency
+a partir de				phr		from, starting; as of; beginning in, since
+de una a dos				phr		from one to two
+
+## Days of the week
+lunes					nm		Monday
+martes					nm		Tuesday
+miércoles				nm		Wednesday
+jueves					nm		Thursday
+viernes					nm		Friday
+sábado					nm		Saturday
+domingo					nm		Sunday
+
+## Months
+enero					nm		January
+febrero					nm		February
+marzo					nm		March
+abril					nm		April
+mayo					nm		May
+junio					nm		June
+julio					nm		July
+augusto					nm		August
+septiembre				nm		September
+octubre					nm		October
+noviembre				nm		November
+diciembre				nm		December
+
+## Seasons
+estación				nf		season
+primavera				nf		spring
+verano					nm		summer
+otoño					nm		fall
+invierno				nm		winter
+
+# Daily routines
+vez					nf		time, occasion
+plan					nm		plan
+internet				n		internet
+
+## Action verbs
+lavar					v		to wash
+lavarse					vr		to wash oneself
+llegar					v		to arrive
+planear					v		to plan
+entrar					v		to enter
+buscar					v		to search, to look for, to seek
+encontrar				v		to find
+comenzar				v		to start
+invitar					v		to invite
+te invito a				phr		I invite you to
+llevar					v		to take, to carry; to wear (clothing)
+llevarse				vr		to take with one
+traer					v		to bring
+tener que				phr		to have to
+usar					v		to use; to wear (clothing)
+pedir					v		to ask (a request, not a question)			
+pedir que				phr		to ask that (a request be done)
+haber de				phr		have to; need to
+sentarse				v		to sit
+castigar				v		to punish
+sacar					v		to take out
+sacar la basura 			phr		to take out the trash
+quitar					v		to remove, to take away
+alejar					v		to move away from; to keep away, to fend off, to dispel
+alejarse				vr		to remove oneself
+descubrir				v		to discover, to find; to reveal, to expose; to uncover, to unveil 
+acercarse a				phr		to move towards, to approach; to come by, to drop by, to pop in; to take interest in
+alejarse de				phr		to move away from, to go far from; to withdraw from, to stop taking part in
+charlar					v		to chat
+conversar				v		to talk, to converse, to chat
+platicar				v		to talk, to chat
+arreglar				v		to fix, to repair
+reparar					v		to repair, to fix
+
+## Reflexive verbs
+> TODO: Complete this
+
+## Everyday objects
+bolígrafo				nm		pen
+llave					nf		key
+teléfono				nm		telephone
+número de teléfono			phr		telephone number
+basura					nf		trash
+
+## Ordering at a restaurant
+me puede dar				phr		can you give me
+quisiera				phr		I would like (imperfect subjunctive of querer)
+quiero					phr		I want
+le encargo				phr		can you bring me 
+cuenta					nf		check
+¿acepta(s) tarjetas de credito?		phr		do you accept credit cards?
+todavía no estamos listos		phr		we are not ready yet
+
+### Describing food
+sabroso					adj		delicious, tasty
+delicioso				adj		delicious
+rico					adj		delicious, tasty, yummy; rich
+está sabroso				phr		it's delicious/tasty
+estaba sabroso				phr		it was delicious/tasty
+
+## Shopping
+
+## Sports
+partido					nm		game; party
+
+## Clothing
+
+# Architecture
+puerta					nf		door
+ventana					nf		window
+abierto					adj		open
+				
+## At home
+cuarto					nm		room
+
+### Living room
+sala					nf		living room
+sofá 					nm		sofa, couch
+sillón					nm		arm chair, easy chair
+librera					nf		bookcase
+estante					nm		shelf; bookcase
+televisor				nm		television
+mesa de centro				nf		coffee table
+
+### Bedroom
+habitación				nf		room; bedroom
+dormitorio				nm		bedroom
+cama					nf		bed
+almohada				nf		pillow
+sábana					nf		sheet
+poncho					nm		blanket; poncho
+ropero					nm		wardrobe
+armario					nm		wardrobe, closet; cupboard; cabinet
+alfombra				nf		carpet, rug
+lámpara					nf		lamp
+
+### Bathroom
+baño					nm		bathroom
+sanitarío				nm		bathroom, restroom; toilet
+lavamanos				nm		sink
+lavabo					nm		sink
+toalla					nf		towel
+ducha					nf		shower
+papelero				nm		wastbasket
+basurero				nm		trash can, garbage can; landfill, dump; garbage man
+cortina					nf		curtain
+jabón					nm		soap
+espejo					nm		mirror
+
+### Dining room
+comedor					nm		dining room
+silla					nf		chair
+mesa					nf		table
+mesa del comedor			nf		dining table
+plato					nm		plate
+cubierto				nm		silverware (usually used in the plural, cubiertos)
+tenedor					nm		fork
+cuchillo				nm		knife
+cuchara					nf		spoon
+cucharita				nf		teaspoon
+mantel					nm		tablecloth
+vaso					nm		glass; cup
+taza					nf		cup; mug
+servilleta				nf		napkin
+copa					nf		glass
+copa de vino				nf		wineglass
+
+### Kitchen
+cocina					nf		kitchen
+estufa					nf		stove
+refri					nf		fridge (colloquial)
+refrigerador				nm		refrigerator
+horno					nm		oven
+fregadero				nm		kitchen sink
+gabinete				nm		kitchen cabinet
+isla de cocina				nf		kitchen island
+licuadora				nf		blender
+batidora				nf		mixer machine; whisk; blender
+sartén					n		frypan, skillet (masculine or feminine noun)
+olla					nf		pot
+			
+# Slang
+chico					adj, nf		small, little, young; kid, boy, girl, guy; boyfriend, girlfriend
+guapo					adj		handsome; pretty (feminine)  
+agua de calcetínes			phr		sock water
+
+# Nature and environment
+## Flora
+árbol					nm		tree
+hoja					nf		leaf
+aguja					nf		needle
+flor					nf		flower
+pétalo					nm		petal
+bosque					nm		forest
+selva					nf		jungle
+
+### Types of trees
+pino					nm		pine
+roble					nm		oak
+arce					nm		maple
+nogal					nm		walnut
+
+## Fauna
+pájaro					nm		bird
+águila					nf		eagle
+perro					nm		dog
+
+## Landscapes
+montaña					nf		mountain
+lago					nm		lake
+río					nm		river
+volcán					nm		volcano
+
+# Family and relationships
+familia					nf		family
+relación				nf		relationship
+vecino					n		neighbor
+amigo					n		friend
+niño					nm		boy
+niña					nf		girl
+
+## Honorifics
+señor					nm		sir; mister; adult man, gentleman; master
+señora					nf		ma'am; missus; adult woman
+señorita				nf		miss; young woman, lady
+
+## Family members
+> In general, the plural form is in the masculine. For example, parents is los padres.
+padre					nm		father
+madre					nf		mother
+papá					nm		dad
+mamá					nf		mom
+hermano/a				n		brother/sister
+hijo/a					n		son/daughter
+esposo/a				n		husband/wife		
+abuelo/a				n		grandfather/grandmother		
+tío/a					n		uncle/aunt
+primo/a					n		cousin
+sobrino/a				n		nephew/niece
+cuñado/a				n		brother-in-law/sister-in-law
+suegro/a				n		father-in-law/mother-in-law
+yerno					nm		son-in-law
+nuera					nf		daughter-in-law
+padrastro				nm		step father
+madrastra				nf		step mother
+materno					adj		maternal
+paterno					adj		paternal
+
+# Food and drink
+> For utensils, tablewear, drinkwear, etc. see [dining room items](#dining_room).
+
+## Vegetables
+verdura					nf		vegetable
+vegetal					nm		vegetable
+zanahoria				nf		carrot
+apio					nm		celery
+cebolla					nf		onion
+tomate					nm		tomato
+arveja					nf		pea
+brócoli					nm		broccoli
+acachofa				nf		artichoke
+berenjena				nf		eggplant
+calabacín				nm		zucchini
+güicoy					nm		zucchini
+champiñón				nm		mushroom
+col					nm		cabbage
+col de Bruselas				nf		brussel sprout
+coliflor				nf		cauliflower
+espárrago				nm		esparagus
+maíz					nm		corn
+pepino					nm		cucumber
+pimiento				nm		pepper
+rábano					nm		raddish
+calabaza				nf		squash
+aguacate				nm		avocado
+zapallo					nf		pumpkin
+
+### Leafy vegetables
+lechuga					nf		lettuce
+espinaca				nf		spinach
+
+### Starches
+papa					nf		potato
+batata					nf		sweet potato
+remolacha				nf		beet
+yuca					nf		yucca
+
+## Fruits
+## Meats
+
+## Meals
+### Breakfast
 café					nm		coffee
-taza					nf		mug
 avena					nf		oatmeal
 huevo					nm		egg
+banana					nf		banana
+pan tostado				nm		toast				
+tostar					v		to toast
+
+### Lunch
+### Dinner
+
+# Geography
+ciudad					nf		city
+
+# Weather
+> There are a lot of impersonal verbs when talking about the weather.
+lluvia					nf		rain
+llover					vi		to rain
+nieve					nf		snow
+nevar					vi		to snow
+rayo					nm		lightning; ray
+relámpago				nm		lightning
+trueno					nm		thunder
+tronar					vi		to thunder
+tormenta				nf		storm; thunderstorm
+sol					nm		sun
+luz del sol				nf		sunlight
+luna 					nf		moon
+
+## Disasters
+diluvio					nm		flood
+
+# Hobbies and leisure
+## Hiking
+
+# Travel and transportation
+viajar					v		to travel
+viaje					nm		trip, journey
+guiar					v		to guide
+guía					n		guide
+boleto					nm		ticket
+maleta					nf		suitcase
+
+## By air
+aeropuerto				nm		airport
+avión					nm		airplane
+aerolínea				nf		airline
+volar					v		to fly
+terminal				nf		terminal
+
+## Accomodations
+hotel					nm		hotel
+
+## Directions
+derecha					nf		right
+izquierda				nf		left
+derecho					adv		straight
+recto					adv		straight
+calle					nf		street, road
+lado					nm		side
+al otro lado de				phr		on the other side of the
+el camino a				phr		the road to
+fuera de camino				phr		off-road; out of the way
+al norte del				phr		to the north of
+
+## Cardinal directions
+punto cardinal				nm		cardinal direction
+norte					nm		north
+sur					nm		south
+este					nm		east
+oeste					nm		west
+noreste					nm		northeast
+noroeste				nm		northwest
+sudeste					nm		southeast
+sudoeste				nm		southwest
+
+### Adjectival forms
+norteño					adj		northern
+sureño					adj		southern
+oriental				adj		eastern
+occidental				adj		western
+
+# Society
+## Government
+tener derecho a				phr		to have the right to
+
+## Services
+seguro médico				nm		medical insurance
+
+# Health
+## Body parts
+cabeza					nf		head
+pelo					nm		hair
+cabello					nm		hair
+frente					nf		forehead
+ojo					nm		eye
+rostro					nm		face
+cara					nf		face
+nariz					nf		nose
+oreja					nf		ear
+boca					nf		mouth
+cuello					nm		neck
+hombro					nm		shoulder
+costilla				nf		rib
+brazo					nm		arm
+codo					nm		elbow
+mano					nf		hand
+dedo					nm		finger
+pierna					nf		leg
+rodilla					nf		knee
+tobillo					nm		ankle
+pie					nm		foot
+espalda					nf		back
+columna					nf		spine
+vertebral				nf		vertebra
+pantorrilla				nf		calf
+
+### Fingers
+palma					nf		palm
+uña					nf		finger nail
+dedo pulgar				nm		thumb
+dedo indice				nm		index finger
+dedo medio				nm		middle finger
+dedo anular				nm		ring finger
+dedo meñique				nm		little finger
+
+# Occupations and professions
+dueño					n		owner
+juez					n		judge
+criada					nf		maid
+electricista				n		electrician
+
+## Profession and professional pairs
+ingeniero				n		engineer
+ingeniería				nf		engineering
+carpintero				n		carpenter
+carpintería				nf		carpentry
+plomero					n		plumber
+plomería				nf		plumbing
+
+
+# Education
+educación				nf		education
+escuela					nf		school
+estudiante				n		student
+escuela primaria			nf		elementary school
+escuela secundaria			nf		middle school, junior high school; high school
+bachillerato				nm		high school
+
+
+# Countries and nationalities
+
+# Arts and culture
+## Literature
+## Music
+## Film
+## Cultural events
+
+
+# Religion
+sacerdote				nm		priest
+sacerdocio				nm		priesthood
+estar llamado a				phr		to be called to 
+
+## Biblical language
+entregar				v		to hand over; to submit
+entregarse				vr		to surrender; to turn oneself in
+destierro				nm		exile
+ahorcarse				vr		to hang oneself
+bondadoso				adj		benevolent, kind
+viuda					nf		widow
+
+# Technology
+
+# Self expression and emotions
+## Self expression
+gustar					v		to please, to like
+me gusta				phr		I like (lit. it pleases me)
+creer					v		to believe
+creo que				phr		I belive that; I think that
+pensar					v		to think
+pienso que				phr		I think that
+preferir				v		to prefer
+preferible				adj		preferable
+percibir				v		to perceive
+al principio				phr		at first
+revelar					v		to reveal
+tener miedo de				phr		to have a fear of
+
+## Emotions
+feliz					adj		happy
+triste					adj		sad
+cansado					adj		tired, exhausted
+contento				adj		content, satisfied; happy
+aburrido				adj		bored, boring
+emocionado				adj		excited
+frustrado				adj		frustrated
+afligido				adj		heartbroken
+
+### Emotive actions
+amar					v		to love
+amor					nm		love
+tener miedo				v		to be afraid of
+miedo					nm		fear
+temer					v		to fear
+temor					nm		fear
+disfrutar				v		to enjoy
+querer					v		to love; to want
+lagrimar				v		to cry
+lágrima					nf		tear
+		
+## Qualities
+liel					adj		loyal
+lealtad					nf		loyalty
+fiel					adj		faithful
+fidelidad				nf		faithfulness
+tierno					adj		tender
+ternura					nf		tenderness
+amable					adj		kind
+amabilidad				nf		kindness
+benévolo				adj		benevolent
+benevolencia				nf		benevolence
+
+# Uncategorized so far
+tierra					nf		earth
+amistad					nf		friendship
+momento					nm		moment
+a veces					adv		sometimes
+específico				adj		specific
+capacidad				nf		capacity
+mezclar					v		to mix
+mezcla					nf		mixture
+divertido				adj		fun, enjoyable; entertaining
+ayuda					nf		help
+ayudar					v		to help
+necesitar				v		to need
+á é í ñ ó ú ü				other		for convenience while entering words if you lack a spanish keyboard
+poco probable				phr		unlikely
+hallar					v		to find (with effort)
+hay que					phr		one ought to VALIDATE
+descrubir				v		to discover
+debido que				phr		due to
+acabar de				phr		to just have done something
+dejar de				phr		to just stop doing something
+dejar					v		to leave
+este/esta				?		this (ALSO DO THAT)
+es mejor				phr		it is better; he/she is better
+varios					adj		various
+firmar					v		to sign
+dar a conocer				phr		to make known
+aceptar					v		to accept
+por el bien de				phr		for the good of
+corto					adj		short, not long
+charla					nf		talk; chat, conversation
