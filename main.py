@@ -177,6 +177,16 @@ for w in words:
         dupes.append(w)
     else:
         seen.add(w)
-print(dupes)
-print(len(seen))
-print(parts)
+
+unique_parts = set()
+for p in parts:
+    if ',' in p:
+        unique_parts.update(p.split(','))
+    else:
+        unique_parts.add(p)
+
+print('Metadata:')
+print('Number of entries: ' + str(len(words)))
+print('Number of unique entries: ' + str(len(seen)))
+print('Unique parts of speech: ' + str(unique_parts))
+print('Duplicated words: ' + str(dupes))
