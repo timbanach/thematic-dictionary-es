@@ -1,5 +1,4 @@
 # Foundations
-> TODO: Add the alphabet
 > Note: See [abbreviations](https://www.wordreference.com/english/abbreviationsWRD.aspx?dict=esen&abbr=com%C3%BAn&src=WR) for the general sense of how the parts of speech should be recorded.
 
 ## The alphabet
@@ -39,6 +38,7 @@ y					alph		ye
 z					alph		zeta
 
 ## Foundational words
+> TODO: I still don't like this here...
 ser					v		to be
 estar					v		to be
 sí					adv, nm, interj	yes
@@ -128,21 +128,6 @@ vosotros/vosotras			pron		you all (Spain, informal)
 ellos/ellas				pron		they
 ustedes					pron		you all (formal)
 
-### Prepositional pronouns
-> As the name suggests, these follow a preposition; for example, "esto es para ti" (this is for you). For the most part, they are the same as the subject pronouns.
-mí					pron		me
-ti					pron		you (informal)
-él					pron		him
-ella					pron		her
-usted					pron		you (formal)
-nosotros/nosotras			pron		us
-vosotros/vosotras			pron		you all (Spain, informal)
-ellos/ellas				pron		them
-ustedes					pron		you all (formal)
-> "With me" and "with you" are special cases:
-conmigo					pron		with me
-contigo					pron		with you
-
 ### Direct object pronouns
 me					pron		me
 te					pron		you (informal)
@@ -155,7 +140,7 @@ los/las					pron		them; you all (formal)
 > When le is followed by a pronoun starting with l, it becomes se; for example, "dáselo" (give it to him).
 me					pron		to/for me
 te					pron		to/for you (informal)
-le					pron		to/for him/her; to/for it; to/for you (formal)
+le/se					pron		to/for him/her; to/for it; to/for you (formal)
 nos					pron		to/for us
 os					pron		to/for you all (Spain, informal)
 les					pron		to/for them; to/for you all (formal)
@@ -176,6 +161,21 @@ suyo(s)/suya(s)				adj, pron	his/hers; its; yours (formal)
 nuestro(s)/nuestra(s)			adj, pron	ours
 vuestro(s)/vuestra(s)			adj, pron	yours (Spain, informal)
 suyo(s)/suya(s)				adj, pron	theirs; yours (formal)
+
+### Prepositional pronouns
+> As the name suggests, these follow a preposition; for example, "esto es para ti" (this is for you). For the most part, they are the same as the subject pronouns.
+mí					pron		me
+ti					pron		you (informal)
+él					pron		him
+ella					pron		her
+usted					pron		you (formal)
+nosotros/nosotras			pron		us
+vosotros/vosotras			pron		you all (Spain, informal)
+ellos/ellas				pron		them
+ustedes					pron		you all (formal)
+> "With me" and "with you" are special cases:
+conmigo					pron		with me
+contigo					pron		with you
 
 ### Relative pronouns
 que					pron		that, which; who, whom
@@ -432,8 +432,12 @@ platicar				v		to talk, to chat
 arreglar				v		to fix, to repair
 reparar					v		to repair, to fix
 
+## Reflexive verbs
+> TODO: Complete this
+
 ## Everyday objects
 bolígrafo				nm		pen
+llave					nf		key
 teléfono				nm		telephone
 número de teléfono			phr		telephone number
 basura					nf		trash
@@ -473,7 +477,6 @@ cuarto					nm		room
 sala					nf		living room
 sofá 					nm		sofa, couch
 sillón					nm		arm chair, easy chair
-teléfono				nm		telephone
 librera					nf		bookcase
 estante					nm		shelf; bookcase
 televisor				nm		television
@@ -648,7 +651,6 @@ yuca					nf		yucca
 ## Meals
 ### Breakfast
 café					nm		coffee
-taza					nf		mug
 avena					nf		oatmeal
 huevo					nm		egg
 banana					nf		banana
