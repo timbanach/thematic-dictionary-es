@@ -92,19 +92,23 @@ with a.html():
             a.hr()
         with a.dl():
             with open('vocab.txt', 'r', encoding='utf-8') as file:
+                l1_header = None
+                l2_header = None
                 while line := file.readline():
                     line = line.strip()
                     if line.startswith('###'):
                         pass  # Basically skip over level 3 headings
                     elif line.startswith('##'):
                         header = line[2:].strip()
+                        l2_header = format_header(header)
                         with a.dd():
-                            with a.a(href=('#' + format_header(header))):
+                            with a.a(href=('#' + l1_header + ':' + l2_header)):  # TODO: Function to standardize this
                                 a(header)
                     elif line.startswith('#'):
                         header = line[1:].strip()
+                        l1_header = format_header(header)
                         with a.dt():
-                            with a.a(href=('#' + format_header(header))):
+                            with a.a(href=('#' + l1_header)):
                                 a(header)
 
         # Create the dictionary
@@ -136,22 +140,20 @@ with a.html():
                     elif line.startswith('###'):
                         header = line[3:].strip()
                         l3_header = format_header(header)  # Save header info
-                        with a.h4():
+                        with a.h4(id=l1_header + ':' + l2_header + ':' + l3_header):
                             a(header)
                     elif line.startswith('##'):
                         header = line[2:].strip()
-                        formatted_header = format_header(header)
-                        l2_header = formatted_header
+                        l2_header = format_header(header)
                         l3_header = None  # Reset l3 sub headers
-                        with a.h3(id=formatted_header):
+                        with a.h3(id=l1_header + ':' + l2_header):
                             a(header)
                     else:
                         header = line[1:].strip()
-                        formatted_header = format_header(header)
-                        l1_header = formatted_header
+                        l1_header = format_header(header)
                         l2_header = None  # Reset l2 and l3 sub headers
                         l3_header = None
-                        with a.h2(id=formatted_header):
+                        with a.h2(id=l1_header):
                             a(header)
                             a.hr()
                 elif line:
