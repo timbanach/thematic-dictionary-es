@@ -253,9 +253,6 @@ en cambio				phr		instead, on the other hand, conversely
 mientras que				phr		whereas
 sino					conj		but rather
 
-## Positive and negative words
-nunca					adv		never
-
 # Numbers
 ## Cardinal numbers
 > Enough examples are provided below to get the pattern.
@@ -350,17 +347,9 @@ duodécimo				adj		twelfth
 decimosegundo				adj		twelfth
 
 # Time
-antes					adv		before
-despues					adv		after
-mientras				conj		while
-siempre					adv		always
-cada					adv		each; every
-cada día				phr		every day
-frecuentemente				adv		frequently
-con frecuencia				phr		often, frequently
+tiempo					nm		time (duration); moment; tempo; weather
+vez					nf		time (as in one time), occasion
 frecuencia				nf		frequency
-a partir de				phr		from, starting; as of; beginning in, since
-de una a dos				phr		from one to two
 
 ## Days of the week
 lunes					nm		Monday
@@ -392,8 +381,63 @@ verano					nm		summer
 otoño					nm		fall
 invierno				nm		winter
 
+## Adverbs of time
+### Points in time
+ayer					adv		yesterday
+hoy					adv		today
+mañana					adv		tomorrow
+anoche					adv		last night
+esta noche				phr		tonight
+la semana pasada			phr		last week
+la próxima semana			phr		next week
+el mes pasado				phr		past month
+el próximo mes				phr		next month
+el año pasado				phr		last year
+el próximo año				phr		next year
+
+### Frequency
+siempre					adv		always
+nunca					adv		never
+frecuentemente				adv		frequently
+con frecuencia				phr		often, frequently
+raramente				adv		never
+cada					adv		each; every
+cada día				phr		every day
+a veces					adv		sometimes
+normalmente				adv		normally
+
+### Sequence
+antes					adv		before
+después					adv		after
+primeramente				adv		firstly
+finalmente				adv		finally
+posteriormente				adv		previously; earlier
+anteriormente				adv		subsequently; later
+
+### Simultaneity
+> See [prepositions of time](#grammar:prepositions:of_time) for more expressions of simultaneity.
+mientras				adv, conj	while; meanwhile
+al mismo tiempo				phr		at the same time
+
+### Proximity
+temprano				adv		early
+tardes					adv		late
+hace un momento				phr		a moment ago
+hace poco				phr		a little while ago
+pronto					phr		soon
+dentro de poco				phr		soon
+un rato					phr 		a while
+
+## Durations of time
+a partir de				phr		from, starting; as of; beginning in, since
+de uno a dos				phr		from one to two (using "de")
+desde uno hasta dos			phr		from one to two (using "desde")
+por tres semanas			phr		for three weeks
+entre uno y dos				phr		between one and two
+desde hace				phr		since (ongoing duration)
+toda la mañana/tarde/noche		phr		all morning/afternoon/night
+
 # Daily routines
-vez					nf		time, occasion
 plan					nm		plan
 internet				n		internet
 
@@ -414,7 +458,7 @@ usar					v		to use; to wear (clothing)
 pedir					v		to ask (a request, not a question)			
 pedir que				phr		to ask that (a request be done)
 haber de				phr		have to; need to
-sentarse				v		to sit
+sentar					v		to sit
 castigar				v		to punish
 sacar					v		to take out
 sacar la basura 			phr		to take out the trash
@@ -429,6 +473,7 @@ conversar				v		to talk, to converse, to chat
 platicar				v		to talk, to chat
 arreglar				v		to fix, to repair
 reparar					v		to repair, to fix
+ordenar					v		to order; to arrange; to ordain
 
 ## Reflexive verbs
 despertarse				vr		to wake up
@@ -475,6 +520,7 @@ le encargo				phr		can you bring me
 cuenta					nf		check
 ¿acepta(s) tarjetas de credito?		phr		do you accept credit cards?
 todavía no estamos listos		phr		we are not ready yet
+ordenamos aquí				phr		do we order here?
 
 ### Describing food
 sabroso					adj		delicious, tasty
@@ -948,7 +994,6 @@ frío					adj		cold
 tierra					nf		earth
 amistad					nf		friendship
 momento					nm		moment
-a veces					adv		sometimes
 específico				adj		specific
 capacidad				nf		capacity
 mezclar					v		to mix
@@ -975,3 +1020,4 @@ aceptar					v		to accept
 por el bien de				phr		for the good of
 corto					adj		short, not long
 charla					nf		talk; chat, conversation
+ocupado					adj		ocupado
