@@ -39,24 +39,11 @@ z					alph		zeta
 
 ## Foundational words
 > TODO: I still don't like this here...
-ser					v		to be
-estar					v		to be
 sí					adv, nm, interj	yes
 no					adv, nm, interj	no
 bien					adv, nm, interj	well; good; ok
 bueno					adj, interj	good; ok
 hay					vi		there is, there are; is there?, are there?
-
-## Ubiquitous verbs
-> TODO: Perhaps break this up into helper verbs?
-ir					v 		to go
-haber					v		to have (in compound tenses)
-tener					v		to have
-conocer					v		to know (people, places, or in general things you are familiar with)
-saber					v		to know (facts, information)
-hacer					v		to do; to make
-poder					v		to be able to, can
-deber					v		should; must; ought
 
 # Survival Spanish
 por favor				phr		please
@@ -437,43 +424,107 @@ entre uno y dos				phr		between one and two
 desde hace				phr		since (ongoing duration)
 toda la mañana/tarde/noche		phr		all morning/afternoon/night
 
-# Daily routines
-plan					nm		plan
-internet				n		internet
+# Verbs
+> https://www.fluentin3months.com/spanish-irregular-verbs/#typesofstemchangingverbsinspanish
+> https://www.spanishacademyantiguena.com/blog/2022/05/22/verb-types-in-spanish-language/
+> https://vamospanish.com/discover/irregular-verbs-in-spanish/
+> https://www.thoughtco.com/types-of-spanish-verbs-3996444
+> https://blog.rosettastone.com/common-spanish-irregular-verbs/#other
 
-## Action verbs
-lavar					v		to wash
-llegar					v		to arrive
-planear					v		to plan
-entrar					v		to enter
-buscar					v		to search, to look for, to seek
-encontrar				v		to find
-comenzar				v		to start
-invitar					v		to invite
-te invito a				phr		I invite you to
-llevar					v		to take, to carry; to wear (clothing)
-traer					v		to bring
-tener que + infinitivo			phr		to have to
-usar					v		to use; to wear (clothing)
-pedir					v		to ask (a request, not a question)			
-pedir que				phr		to ask that (a request be done)
-haber de				phr		have to; need to
+## Auxiliary
+> Otherwise known as helping verbs.
+ser					v		to be (permanent)
+estar					v		to be (temporary)
+haber					v		to have (in compound tenses)
+ir					v 		to go
+tener					v		to have
+
+## Irregular
+### Most common
+hacer					v		to do; to make
+conocer					v		to know (people, places, familiarity)
+saber					v		to know (facts, information)
+poder					v		to be able to, can
+poner					v		to put, to place
+dar					v		to give
+ver					v		to see
+decir					v		to say, to tell
+querer					v		to want; to like, to love
+creer					v		to believe; to think
+pensar					v		to think; to intend
+sentir					v		to feel; to perceive (senses); to be sorry
+
+### Stem-changing verbs e-ie
+empezar					v		to start, to begin
+comenzar				v		to start, to begin; to commence
+preferir				v		to prefer
+cerrar					v		to close, to shut; to conclude; to turn off
+perder					v		to lose
+entender				v		to understand
+mentir					v		to lie
+divertir				v		to amuse, to entertain
+despertar				v		to wake up
+encender				v		to light; to turn on
+repetir					v		to repeat
 sentar					v		to sit
-castigar				v		to punish
-sacar					v		to take out
-sacar la basura 			phr		to take out the trash
-quitar					v		to remove, to take away
-alejar					v		to move away from; to keep away, to fend off, to dispel
-alejarse				vr		to remove oneself
-descubrir				v		to discover, to find; to reveal, to expose; to uncover, to unveil 
-acercarse a				phr		to move towards, to approach; to come by, to drop by, to pop in; to take interest in
-alejarse de				phr		to move away from, to go far from; to withdraw from, to stop taking part in
-charlar					v		to chat
-conversar				v		to talk, to converse, to chat
-platicar				v		to talk, to chat
-arreglar				v		to fix, to repair
-reparar					v		to repair, to fix
-ordenar					v		to order; to arrange; to ordain
+gobernar				v		to govern
+defender				v		to defend
+calentar				v		to heat up
+hervir					v		to boil
+helar					v		to freeze
+negar					v		to deny
+recomendar				v		to recommend
+sugerir					v		to suggest
+encerrar				v		to enclose; to lock up
+atravesar				v		to cross
+remendar 				v		to mend
+acertar					v		to guess
+advertir				v		to advise, to warn
+atender					v		to attend to
+confesar				v		to confess
+convertir				v		to convert
+consentir				v		to consent
+descender				v		to descend
+fregar					v		to scrub, to wash; to annoy, to bother; to screw up
+tropezar				v		to trip, to stumble
+
+### Stem-changing verbs o-ue
+encontrar				v		to find, to discover; to encounter
+cocer					v		to cook
+
+### Stem-changing verbs e-i
+seguir					v		to follow; to continue
+
+### Other stem-changing verbs
+adquirir				v		to acquire; to purchase
+inquirir				v		to inquire; to investigate
+
+### Irregular yo form with no stem change
+### Irregular yo form with a stem change
+### Orthographic-changing verbs
+> These verbs change spelling to maintain pronounciation.
+llegar					v		to arrive
+parecer					v		to seem, to appear, to look like
+
+
+### Defective verbs
+> These verbs lack all conjugations.
+
+
+## Regular
+### Ending in -ar
+hablar					v		to speak
+llevar					v		to take, to carry, to bring; to give a ride; to wear
+quedar					v		to stay; to remain
+pasar					v		to pass; to happen
+dejar					v		to leave
+
+
+### Ending in -er
+deber					v		should; must; ought
+
+### Ending in -ir
+
 
 ## Reflexive verbs
 despertarse				vr		to wake up
@@ -503,6 +554,44 @@ ensuciarse				vr		to get dirty; to soil oneself
 romperse				vr		to break (a bone, etc.)
 pintarse				vr		to put makeup on
 secarse					vr		to dry oneself
+
+## Impersonal
+
+## Action verbs 
+> TODO: slowly moving these around...
+lavar					v		to wash
+planear					v		to plan
+entrar					v		to enter
+buscar					v		to search, to look for, to seek
+invitar					v		to invite
+te invito a				phr		I invite you to
+traer					v		to bring
+tener que + infinitivo			phr		to have to
+usar					v		to use; to wear (clothing)
+pedir					v		to ask (a request, not a question)			
+pedir que				phr		to ask that (a request be done)
+haber de				phr		have to; need to
+castigar				v		to punish
+sacar					v		to take out
+sacar la basura 			phr		to take out the trash
+quitar					v		to remove, to take away
+alejar					v		to move away from; to keep away, to fend off, to dispel
+alejarse				vr		to remove oneself
+descubrir				v		to discover, to find; to reveal, to expose; to uncover, to unveil 
+acercarse a				phr		to move towards, to approach; to come by, to drop by, to pop in; to take interest in
+alejarse de				phr		to move away from, to go far from; to withdraw from, to stop taking part in
+charlar					v		to chat
+conversar				v		to talk, to converse, to chat
+platicar				v		to talk, to chat
+arreglar				v		to fix, to repair
+reparar					v		to repair, to fix
+ordenar					v		to order; to arrange; to ordain
+
+# Daily routines
+> See [verbs](#verbs) for how to describe daily actions.
+
+plan					nm		plan
+internet				n		internet
 
 ## Everyday objects
 bolígrafo				nm		pen
@@ -935,13 +1024,11 @@ viuda					nf		widow
 
 # Self expression and emotions
 ## Self expression
+> TODO: Some of these verbs are going to be moved...
 gustar					v		to please, to like
 me gusta				phr		I like (lit. it pleases me)
-creer					v		to believe
 creo que				phr		I belive that; I think that
-pensar					v		to think
 pienso que				phr		I think that
-preferir				v		to prefer
 preferible				adj		preferable
 percibir				v		to perceive
 al principio				phr		at first
@@ -966,7 +1053,6 @@ miedo					nm		fear
 temer					v		to fear
 temor					nm		fear
 disfrutar				v		to enjoy
-querer					v		to love; to want
 lagrimar				v		to cry
 lágrima					nf		tear
 		
@@ -1010,7 +1096,6 @@ descrubir				v		to discover
 debido que				phr		due to
 acabar de				phr		to just have done something
 dejar de				phr		to just stop doing something
-dejar					v		to leave
 este/esta				?		this (ALSO DO THAT)
 es mejor				phr		it is better; he/she is better
 varios					adj		various
