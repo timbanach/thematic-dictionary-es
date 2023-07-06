@@ -39,6 +39,7 @@ z					alph		zeta
 
 ## Foundational words
 > TODO: I still don't like this here...
+> TODO: Perhaps move this to survival Spanish
 sí					adv, nm, interj	yes
 no					adv, nm, interj	no
 bien					adv, nm, interj	well; good; ok
@@ -490,7 +491,42 @@ tropezar				v		to trip, to stumble
 
 ### Stem-changing verbs o-ue
 encontrar				v		to find, to discover; to encounter
-cocer					v		to cook
+almorzar				v		to eat lunch
+recordar				v		to remember
+acostar					v		to put to bed
+dormir					v		to sleep
+costar					v		to cost
+contar					v		to count; to tell
+mover					v		to move
+morir					v		to die
+sonar					v		to ring, to go off (alarm); to sound
+soñar					v		to dream
+volar					v		to fly
+volver					v		to return, to come back
+devolver				v		to return (something)
+envolver				v		to wrap, to shroud, to surround
+revolver				v		to mix, shake
+resolver				v		to resolve, to solve; to decide, to settle
+absolver				v		to absolve
+disolver				v		to dissolve
+probar					v		to try, to test; to taste; to prove, to demonstrate
+mostrar					v		to show
+morder					v		to bite
+aprobar					v		to approve
+colgar					v		to hang; to upload (on social media), to post
+demostrar				v		to prove, to demonstrate; to show
+conmover				v		to move (emotionally), to be touched, to be shaken
+promover				v		to promote; to provoke
+remover					v		to remove; to fire (someone); to stir, to shake; to dig up; to make reference to, to bring up
+moler					v		to grind; to mill
+demoler					v		to demolish
+cocer					v		to cook; to boil; to bake
+tostar					v		to toast
+torcer					v		to twist, to bend
+retorcer				v		to twist, to wring out
+doler					v		to hurt
+rogar					v		to beg, to pray
+soler					v		to be accustomed to; to usually do
 
 ### Stem-changing verbs e-i
 seguir					v		to follow; to continue
