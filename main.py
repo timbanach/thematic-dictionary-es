@@ -79,6 +79,7 @@ a('<!DOCTYPE html>')
 with a.html():
     with a.head():
         a.meta(charset='utf-8')
+        a.link(rel='icon', href='favicon.ico')
         a.link(rel='preconnect', href='https://fonts.googleapis.com')
         a.link(rel='preconnect', href='https://fonts.gstatic.com', crossorigin="")
         a.link(href='https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Serif&display=swap',

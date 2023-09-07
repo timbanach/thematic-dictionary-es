@@ -198,7 +198,7 @@ sobre					prep		about; on (location)
 versus					prep		versus
 vía					prep		through
 
-### Of location
+### Of place
 a					prep		to; at (time); for (people)
 en					prep		in, at, on
 debajo de				prep		under
@@ -388,6 +388,7 @@ siempre					adv		always
 nunca					adv		never
 frecuentemente				adv		frequently
 con frecuencia				phr		often, frequently
+a menudo				phr		often
 raramente				adv		never
 cada					adv		each; every
 cada día				phr		every day
@@ -441,6 +442,8 @@ ir					v 		to go
 tener					v		to have
 
 ## Irregular
+> Note that verbs often fall into multiple categories of irregularity, but are only listed once in the predominant category.
+
 ### Most common
 hacer					v		to do; to make
 conocer					v		to know (people, places, familiarity)
@@ -459,20 +462,18 @@ sentir					v		to feel; to perceive (senses); to be sorry
 empezar					v		to start, to begin
 comenzar				v		to start, to begin; to commence
 preferir				v		to prefer
+despertar				v		to wake up
+entender				v		to understand
 cerrar					v		to close, to shut; to conclude; to turn off
 perder					v		to lose
-entender				v		to understand
 mentir					v		to lie
 divertir				v		to amuse, to entertain
-despertar				v		to wake up
 encender				v		to light; to turn on
-repetir					v		to repeat
 sentar					v		to sit
 gobernar				v		to govern
 defender				v		to defend
 calentar				v		to heat up
 hervir					v		to boil
-helar					v		to freeze
 negar					v		to deny
 recomendar				v		to recommend
 sugerir					v		to suggest
@@ -512,6 +513,7 @@ disolver				v		to dissolve
 probar					v		to try, to test; to taste; to prove, to demonstrate
 mostrar					v		to show
 morder					v		to bite
+acordar					v		to agree; to award
 aprobar					v		to approve
 colgar					v		to hang; to upload (on social media), to post
 demostrar				v		to prove, to demonstrate; to show
@@ -529,40 +531,110 @@ rogar					v		to beg, to pray
 soler					v		to be accustomed to; to usually do
 
 ### Stem-changing verbs e-i
+entender				v		to understand
 seguir					v		to follow; to continue
+conseguir				v		to get, to obtain
+perseguir				v		to persue, to follow, to chase; to persecute
+pedir					v		to ask for, to request
+despedir				v		to say goodbye to, to see off; to lay off, to fire
+impedir					v		to impede, to hinder; to prevent, to block
+elegir					v		to choose
+servir					v		to serve
+vestir					v		to wear, to dress
+repetir					v		to repeat	
+reír					v		to laugh
+sonreír					v		to smile
+medir					v		to measure
+competir				v		to compete
+corregir				v		to correct
+freír					v		to fry
+colegir					v		to infer, to deduce; to gather
+gemir					v		to moan, to groan
 
 ### Other stem-changing verbs
 adquirir				v		to acquire; to purchase
 inquirir				v		to inquire; to investigate
 
-### Irregular yo form with no stem change
-### Irregular yo form with a stem change
+### Irregular yo form
+venir					v		to come
+salir					v		to exit
+traer					v		to bring; to carry
+oír					v		to hear
+caber					v		to fit
+lucir					v		to shine; to appear, to look
+valer					v		to be worth, to be valued at
+caer					v		to fall; to hang
+
+### Irregular in the preterite
+> TODO: -ucir (own category or not?)
+producir				v		to produce
+
+
 ### Orthographic-changing verbs
 > These verbs change spelling to maintain pronounciation.
+buscar					v		to search, to look for, to seek
 llegar					v		to arrive
 parecer					v		to seem, to appear, to look like
-
+castigar				v		to punish
+sacar					v		to take out
+acercar					v		to move closer
+platicar				v		to talk, to chat
+equivocar				v		to get wrong
+secar					v		to dry
 
 ### Defective verbs
-> These verbs lack all conjugations.
-
+> These verbs lack all conjugations. Also see [impersonal verbs](#verbs:impersonal).
+atañer					v		to concern, to have to do with
+pasar					v		to pass; to happen
 
 ## Regular
 ### Ending in -ar
 hablar					v		to speak
+tomar					v		to take; to drink
 llevar					v		to take, to carry, to bring; to give a ride; to wear
-quedar					v		to stay; to remain
-pasar					v		to pass; to happen
+lavar					v		to wash
+trabajar				v		to work
+esperar					v		to wait for, to hope
+entrar					v		to enter
 dejar					v		to leave
-
+terminar				v		to finish, to end
+desayunar				v		to have breakfast
+cenar					v		to have dinner, to dine
+planear					v		to plan
+invitar					v		to invite
+mirar					v		to look at, to watch
+bañar					v		to bathe
+usar					v		to use; to wear (clothing)
+quitar					v		to remove, to take away
+alejar					v		to move away from; to keep away, to fend off, to dispel
+permitir				v		to permit, allow
+charlar					v		to chat
+conversar				v		to talk, to converse, to chat
+arreglar				v		to fix, to repair
+reparar					v		to repair, to fix
+ordenar					v		to order; to arrange; to ordain
+peinar					v		to comb
+cansar					v		to tire; to annoy
+enojar					v		to anger
+ensuciar				v		to dirty
+pintar					v		to paint
+tratar					v		to treat (someone); to deal with (someone); to process (computing)
+quedar					v		to stay; to remain
 
 ### Ending in -er
 deber					v		should; must; ought
+romper					v		to break
 
 ### Ending in -ir
-
+escribir				v		to write
+vivir					v		to live
+descubrir				v		to discover, to find; to reveal, to expose 
+recibir					v		to receive; to welcome, to greet
+existir					v		to exist
+ocurrir					v		to occur, to happen
 
 ## Reflexive verbs
+> If the verb can be used non-reflexively, it is also found in the above categories.
 despertarse				vr		to wake up
 dormirse				vr		to fall asleep
 acostarse				vr 		to go to bed; to lie down
@@ -590,38 +662,28 @@ ensuciarse				vr		to get dirty; to soil oneself
 romperse				vr		to break (a bone, etc.)
 pintarse				vr		to put makeup on
 secarse					vr		to dry oneself
+alejarse				vr		to remove oneself
+acercarse				vr		to approach
 
 ## Impersonal
+llover					v		to rain
+nevar					v		to snow
+amanecer				v		to dawn, to become light out
+anochecer				v		to get dark out
+relampaguear				v		to flash lightning
+tronar					v		to thunder
+granizar				v		to hail
+helar					v		to freeze
 
-## Action verbs 
-> TODO: slowly moving these around...
-lavar					v		to wash
-planear					v		to plan
-entrar					v		to enter
-buscar					v		to search, to look for, to seek
-invitar					v		to invite
+## Verbal phrases 
+> TODO: Perhaps move these around...
 te invito a				phr		I invite you to
-traer					v		to bring
 tener que + infinitivo			phr		to have to
-usar					v		to use; to wear (clothing)
-pedir					v		to ask (a request, not a question)			
 pedir que				phr		to ask that (a request be done)
 haber de				phr		have to; need to
-castigar				v		to punish
-sacar					v		to take out
 sacar la basura 			phr		to take out the trash
-quitar					v		to remove, to take away
-alejar					v		to move away from; to keep away, to fend off, to dispel
-alejarse				vr		to remove oneself
-descubrir				v		to discover, to find; to reveal, to expose; to uncover, to unveil 
 acercarse a				phr		to move towards, to approach; to come by, to drop by, to pop in; to take interest in
 alejarse de				phr		to move away from, to go far from; to withdraw from, to stop taking part in
-charlar					v		to chat
-conversar				v		to talk, to converse, to chat
-platicar				v		to talk, to chat
-arreglar				v		to fix, to repair
-reparar					v		to repair, to fix
-ordenar					v		to order; to arrange; to ordain
 
 # Daily routines
 > See [verbs](#verbs) for how to describe daily actions.
@@ -665,6 +727,7 @@ partido					nm		game; party
 puerta					nf		door
 ventana					nf		window
 abierto					adj		open
+cerrado					adj		closed
 				
 ## At home
 cuarto					nm		room
@@ -818,7 +881,8 @@ mamá					nf		mom
 hermano/a				n		brother/sister
 hijo/a					n		son/daughter
 esposo/a				n		husband/wife		
-abuelo/a				n		grandfather/grandmother		
+abuelo/a				n		grandfather/grandmother
+nieto/a					n		grandson/granddaughter
 tío/a					n		uncle/aunt
 primo/a					n		cousin
 sobrino/a				n		nephew/niece
@@ -880,7 +944,6 @@ avena					nf		oatmeal
 huevo					nm		egg
 banana					nf		banana
 pan tostado				nm		toast				
-tostar					v		to toast
 
 ### Lunch
 ### Dinner
@@ -889,16 +952,12 @@ tostar					v		to toast
 ciudad					nf		city
 
 # Weather
-> There are a lot of impersonal verbs when talking about the weather.
-> TODO: Clean weather up a bit
+> See [impersonal verbs](#verbs:impersonal) for verbs to describe the weather.
 lluvia					nf		rain
-llover					vi		to rain
 nieve					nf		snow
-nevar					vi		to snow
 rayo					nm		lightning; ray
 relámpago				nm		lightning
 trueno					nm		thunder
-tronar					vi		to thunder
 tormenta				nf		storm; thunderstorm
 luz del sol				nf		sunlight
 
@@ -931,7 +990,6 @@ maleta					nf		suitcase
 aeropuerto				nm		airport
 avión					nm		airplane
 aerolínea				nf		airline
-volar					v		to fly
 terminal				nf		terminal
 
 ## Accomodations
