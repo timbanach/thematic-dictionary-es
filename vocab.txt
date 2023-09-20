@@ -178,10 +178,30 @@ cuando					adv, pron	when
 donde					adv, pron	where
 
 ### Indefinite pronouns
-> TODO: Finish this
+cualquiera				pron		anybody; any one
+alguien					pron		somebody
+nadie					pron		nobody
+algo					pron		something
+nada					pron		nothing
+alguno(s)/alguna(s)			pron		some; one
+ninguno(s)/ninguna(s)			pron		none; no one
+todo(s)/toda(s)				pron		all
+poco(s)/poca(s)				pron		a few
+mucho(s)/mucha(s)			pron		many
+otro(s)/otra(s)				pron		another; others (when plural)
 
-### Demonstrative pronouns
-> TODO: Finish this
+### Demonstrative pronouns (and adjectives)
+> Note that the neuter forms - esto, eso, and aquello - cannot be used as adjectives. 
+> Also, the neuter forms are often used for abstract things/ideas.
+este/esta				pron, adj	this
+esto					pron		this (neuter)
+estos/estas				pron, adj	these
+ese/esa					pron, adj	that (closer to the listener)
+eso					pron		that (closer to the listener; neuter)
+esos/esas				pron, adj	those (closer to the listener)
+aquel/aquella				pron, adj	that (far from listener and speaker)
+aquello					pron		that (far from listener and speaker; neuter)
+aquellos/aquellas			pron, adj	those (far from listener and speaker)
 
 ## Prepositions
 > When the preposition applies to a secondary category, that category is listed in parenthesis after the definition.
@@ -426,6 +446,29 @@ entre uno y dos				phr		between one and two
 desde hace				phr		since (ongoing duration)
 toda la mañana/tarde/noche		phr		all morning/afternoon/night
 
+# Descriptors
+## Colors
+negro					adj		black
+blanco					adj		white
+gris					adj		grey
+rojo					adj		red
+verde					adj		green
+azul					adj		blue
+amarillo				adj		yellow
+naranja					adj		orange
+marrón					adj		brown
+café					adj		brown
+rosado					adj		pink
+
+## Shapes and sizes
+## Texture
+
+## Physical qualities
+caliente				adj		hot (used to describe something)
+frío					adj		cold
+mojado					adj		wet, damp; drenched, soaked
+seco					adj		dry
+
 # Verbs
 > https://www.fluentin3months.com/spanish-irregular-verbs/#typesofstemchangingverbsinspanish
 > https://www.spanishacademyantiguena.com/blog/2022/05/22/verb-types-in-spanish-language/
@@ -564,8 +607,12 @@ caber					v		to fit
 lucir					v		to shine; to appear, to look
 valer					v		to be worth, to be valued at
 caer					v		to fall; to hang
+aparecer				v		to appear
+
 
 ### Irregular in the preterite
+> TODO: are there other -tuv changes besides estar? - Or just section for derivitives of tener
+mantener				v		to hold
 > TODO: -ucir (own category or not?)
 producir				v		to produce
 
@@ -592,6 +639,7 @@ pasar					v		to pass; to happen
 hablar					v		to speak
 tomar					v		to take; to drink
 llevar					v		to take, to carry, to bring; to give a ride; to wear
+necesitar				v		to need
 lavar					v		to wash
 trabajar				v		to work
 esperar					v		to wait for, to hope
@@ -605,6 +653,7 @@ invitar					v		to invite
 mirar					v		to look at, to watch
 bañar					v		to bathe
 usar					v		to use; to wear (clothing)
+quedar					v		to stay; to remain
 quitar					v		to remove, to take away
 alejar					v		to move away from; to keep away, to fend off, to dispel
 permitir				v		to permit, allow
@@ -619,7 +668,7 @@ enojar					v		to anger
 ensuciar				v		to dirty
 pintar					v		to paint
 tratar					v		to treat (someone); to deal with (someone); to process (computing)
-quedar					v		to stay; to remain
+resultar				v		to turn out to be; to work out (not exercise)
 
 ### Ending in -er
 deber					v		should; must; ought
@@ -1162,14 +1211,6 @@ amabilidad				nf		kindness
 benévolo				adj		benevolent
 benevolencia				nf		benevolence
 
-## Physical descriptions
-> TODO: Is this the best place for these words?
-mojado					adj		wet, damp; drenched, soaked
-seco					adj		dry
-caliente				adj		hot (used to describe something)
-calor					adj		hot (sensation of feeling heat)
-frío					adj		cold
-
 # Uncategorized so far
 tierra					nf		earth
 amistad					nf		friendship
@@ -1181,7 +1222,6 @@ mezcla					nf		mixture
 divertido				adj		fun, enjoyable; entertaining
 ayuda					nf		help
 ayudar					v		to help
-necesitar				v		to need
 á é í ñ ó ú ü				other		for convenience while entering words if you lack a spanish keyboard
 poco probable				phr		unlikely
 hallar					v		to find (with effort)
@@ -1200,3 +1240,4 @@ por el bien de				phr		for the good of
 corto					adj		short, not long
 charla					nf		talk; chat, conversation
 ocupado					adj		ocupado
+calor					nm		heat
